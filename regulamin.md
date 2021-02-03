@@ -1,5 +1,6 @@
 # 1.Regulamin Serwera Discord
 
+
 **1.1** Zakaz reklamowania serwerów bez zgody administracji (np. wysyłanie zaproszeń Discord na publicznych
 kanałach bądź w wiadomościach prywatnych).  
 **1.2** Zakaz udostępniania lub propagowania treści niestosownych, mogących urazić graczy lub ugrupowanie.  
