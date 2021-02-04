@@ -17,6 +17,7 @@ Serwera RDR2 RP.
 odpowiedni kanał lub powiadomić Support.  
 **1.9** Administracja ma prawo do usunięcia wiadomości, które uzna za niestosowne, mogących urazić graczy lub
 ugrupowanie.  
+**1.10** Nazwa użytkownika/gracza musi być jednakowa zarówno na serwerze Discord WildWest jak i serwerze Roleplay RDR2.
 
 # 2.Regulamin Serwera WildWest.pl
 ## Postacie
@@ -107,7 +108,8 @@ samym wyglądem lub głosem, i wymaga dowodów.
 **4.8.** Powracanie do miejsca akcji lub postaci (po BW, podniesiony przez lekarza czy skryptowo) w celu ocalenia
 członka bandy lub w celu dokonania zemsty poprzez zabójstwo bądź pobicie, będzie traktowane jako Revenge Kill
 oraz Fail RP.  
-**4.9.** W strefie bez Jurysdykcji Szeryfów (czerwona strefa), do zapoczątkowania akcji wystarczy minimalistyczna
+**4.9.** W strefie AOP nie obowiązują limity dla frakcji Szeryfów, podczas akcji hostylnej, napadów lub innych sytuacji Crime.  
+**4.10.** W strefie bez Jurysdykcji Szeryfów (czerwona strefa), do zapoczątkowania akcji wystarczy minimalistyczna
 inicjacja (np. strzał w konia). Jednakże, nie obowiązują tam żadne limity.  
 
 ## Założenia Frakcyjne
