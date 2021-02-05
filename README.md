@@ -1,23 +1,23 @@
 # 1.Regulamin Serwera Discord
 
 
-**1.1** Zakaz reklamowania serwerów bez zgody administracji (np. wysyłanie zaproszeń Discord na publicznych
+**1.1.** Zakaz reklamowania serwerów bez zgody administracji (np. wysyłanie zaproszeń Discord na publicznych
 kanałach bądź w wiadomościach prywatnych).  
-**1.2** Zakaz udostępniania lub propagowania treści niestosownych, mogących urazić graczy lub ugrupowanie.  
-**1.3** Zakaz używania obraźliwych nicków w tym pseudonimów obrażających ugrupowanie, bądź osoby prywatne.  
-**1.4** Na Discordzie WildWest.pl kategorycznie zabrania się obrażania innych użytkowników, obowiązuje tutaj kultura
+**1.2.** Zakaz udostępniania lub propagowania treści niestosownych, mogących urazić graczy lub ugrupowanie.  
+**1.3.** Zakaz używania obraźliwych nicków w tym pseudonimów obrażających ugrupowanie, bądź osoby prywatne.  
+**1.4.** Na Discordzie WildWest.pl kategorycznie zabrania się obrażania innych użytkowników, obowiązuje tutaj kultura
 osobista oraz szacunek do innych graczy.  
-**1.5** Zakaz podszywania się pod Administracje/Moderacje Serwera.  
-**1.6** Administracja ma prawo do nadawania bana/kick’a/muta/warna na użytkowników oraz usuwania z WhiteListy, bez
+**1.5.** Zakaz podszywania się pod Administracje/Moderacje Serwera.  
+**1.6.** Administracja ma prawo do nadawania bana/kick’a/muta/warna na użytkowników oraz usuwania z WhiteListy, bez
 podania konkretnego powodu.  
-**1.7** Administracja ma prawo karać za czyny działające na szkodę serwera (np. bugowanie, podburzanie
+**1.7.** Administracja ma prawo karać za czyny działające na szkodę serwera (np. bugowanie, podburzanie
 społeczności), nawet jeśli nie ma ich uwzględnionych w regulaminie. Tyczy się to zarówno Serwera Discord, jak i
 Serwera RDR2 RP.  
-**1.8** Zakaz pingowania Właścicieli oraz Developerów. W przypadku problemów/pomocy należy kierować Ticket na
+**1.8.** Zakaz pingowania Właścicieli oraz Developerów. W przypadku problemów/pomocy należy kierować Ticket na
 odpowiedni kanał lub powiadomić Support.  
-**1.9** Administracja ma prawo do usunięcia wiadomości, które uzna za niestosowne, mogących urazić graczy lub
+**1.9.** Administracja ma prawo do usunięcia wiadomości, które uzna za niestosowne, mogących urazić graczy lub
 ugrupowanie.  
-**1.10** Nazwa użytkownika/gracza musi być jednakowa zarówno na serwerze Discord WildWest jak i serwerze Roleplay RDR2.
+**1.10.** Nazwa użytkownika/gracza musi być jednakowa zarówno na serwerze Discord WildWest jak i serwerze Roleplay RDR2.
 
 # 2.Regulamin Serwera WildWest.pl
 ## Postacie
@@ -83,7 +83,7 @@ innych graczy (bez zgody administracji)
 
 **4.1.** Jeżeli osoby powiązane z Crime, będą zachowywać się brawurowo lub będą za bardzo się wychylać (np.
 poprzez masowe mordowanie NPC, robienie serii banków), to zostaną obarczone listem gończym. W przypadku
-poważnych przewinień, list gończy będzie zawierać nagrodę, wyłącznie za martwego poszukiwanego.
+poważnych przewinień, list gończy będzie zawierać nagrodę, wyłącznie za martwego poszukiwanego.  
 **4.2.** Podczas akcji Crime, obowiązuje limit graczy dla frakcji bandytów oraz szeryfów:
 - Akcje Lekkie (napad na sklep, rabunek, sprzedaż kontrabandy)
 Maksymalnie do 2 bandytów; 2 szeryfów oraz 2 zakładników
@@ -94,23 +94,23 @@ Maksymalnie do 4 bandytów
 - Akcje Eventowe
 Informacje w ogłoszeniach o eventach
 
-**4.3.** Zakazane są odbicia członka gangu w miejscu, w którym jest przetrzymywany (np. biuro szeryfa w Valentine).
-**4.4.** Zakaz zabijania, porywania oraz okradania Szeryfów/Doktorów bez posiadania poważnych podstaw fabularnych.
-Okraść Szeryfa/Doktora można tylko w przypadku wątku, poprzez użycie komend narracyjnych, nie skryptów
-(używanie kajdanek)  
-**4.5.** Zakazane jest używania ciał graczy lub NPC jako tarczy, poprzez trzymanie ich na ramieniu, mając jednocześnie
+**4.3.** Wzywanie pomocy Lekarza podczas trwającej akcji Crime jest traktowane jako przekroczenie limitów akcji.
+Konsekwencje ponosi strona wzywająca pomoc.  
+**4.4.** W strefie AOP nie obowiązują limity dla frakcji Szeryfów, podczas akcji hostylnej, napadów lub innych sytuacji Crime.  
+**4.5.** W strefie bez Jurysdykcji Szeryfów (czerwona strefa), do zapoczątkowania akcji wystarczy minimalistyczna
+inicjacja oraz nie obowiązują tam żadne limity akcji hostylnych.  
+**4.6.** Zakazane są odbicia członka gangu w miejscu, w którym jest przetrzymywany (np. biuro szeryfa w Valentine).  
+**4.7.** Zakaz zabijania, porywania oraz okradania Szeryfów/Doktorów bez posiadania poważnych podstaw fabularnych. Okraść Szeryfa/Doktora można tylko w przypadku wątku, poprzez użycie komend narracyjnych, nie skryptów (używanie kajdanek)  
+**4.8.** Zakazane jest używania ciał graczy lub NPC jako tarczy, poprzez trzymanie ich na ramieniu, mając jednocześnie
 wyciągniętą broń.  
-**4.6.** Podczas akcji Crime (np. napad na bank), zakazane jest podejmowanie działania, bądź strzelania bez uprzedniej
+**4.9.** Podczas akcji Crime (np. napad na bank), zakazane jest podejmowanie działania, bądź strzelania bez uprzedniej
 negocjacji lub inicjacji ze strony Szeryfów lub Bandytów.  
-**4.7.** Po akcji Crime, osoba atakująca/napadająca może zostać rozpoznana wciągu 40 minut (1 dzień IC), tylko i
+**4.10.** Po akcji Crime, osoba atakująca/napadająca może zostać rozpoznana wciągu 40 minut (1 dzień IC), tylko i
 wyłącznie, jeżeli będzie posiadać taki sam ubiór jak na akcji Crime. Późniejsze rozpoznanie, nie może być oparte
 samym wyglądem lub głosem, i wymaga dowodów.  
-**4.8.** Powracanie do miejsca akcji lub postaci (po BW, podniesiony przez lekarza czy skryptowo) w celu ocalenia
+**4.11.** Powracanie do miejsca akcji lub postaci (po BW, podniesiony przez lekarza czy skryptowo) w celu ocalenia
 członka bandy lub w celu dokonania zemsty poprzez zabójstwo bądź pobicie, będzie traktowane jako Revenge Kill
-oraz Fail RP.  
-**4.9.** W strefie AOP nie obowiązują limity dla frakcji Szeryfów, podczas akcji hostylnej, napadów lub innych sytuacji Crime.  
-**4.10.** W strefie bez Jurysdykcji Szeryfów (czerwona strefa), do zapoczątkowania akcji wystarczy minimalistyczna
-inicjacja (np. strzał w konia). Jednakże, nie obowiązują tam żadne limity.  
+oraz Fail RP.   
 
 ## Założenia Frakcyjne
 
@@ -121,9 +121,7 @@ to 3 lekarzy crime)
 **5.3.** Wykorzystywanie przez Lekarza informacji oraz mechanik w celu osiągnięcia przewagi lub złamania regulaminu
 jest zabronione! Tyczy się to zarówno strony Crime (informacje z wezwania) jak i strony Prawa (sprzedaż naparów
 uzdrawiających innym graczom)  
-**5.4.** Wzywanie pomocy Lekarza podczas trwającej akcji Crime jest traktowane jako przekroczenie limitów akcji.
-Konsekwencje ponosi strona wzywająca pomoc.  
-**5.5.** Nadużywanie mechanik frakcji przez Szeryfów jest zabronione! Tyczy się to „zakuwania na lasso”,
+**5.4.** Nadużywanie mechanik frakcji przez Szeryfów jest zabronione! Tyczy się to „zakuwania na lasso”,
 przeszukiwania lub wysyłki do więzienia, w celu osiągnięcia przewagi nad innymi graczami.
 
 # 6.Definicje
@@ -151,7 +149,7 @@ graczom, bądź po to by nie zostać ukaranym za przewinienia IC
 sukces nad innymi graczami bądź porażki. Przykładami akcji hostylnych są strzelaniny, odbicia, napady itp.)
 - EVENT – Akcja integracyjna tworząca przez społeczność graczy lub administrację, tworzona w celu wprowadzenia
 zmian w rozgrywce lub zapewnienie rozgrywki graczom/grupie graczy
-- INICJACJA – Konkretna czynność np. strzał, która podczas wątku bądź też akcji, będzie skutkować konkretnymi
+- INICJACJA – Inicjacja słowna lub konkretna czynność np. strzał lub zakończenie negocjacji, która podczas wątku bądź też akcji, będzie skutkować konkretnymi
 konsekwencjami.
 
 > Regulamin stworzony przez użytkownika Nightmare#0132 razem z pomocą społeczności.
