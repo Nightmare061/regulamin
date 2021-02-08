@@ -125,7 +125,6 @@ jest zabronione! Tyczy się to zarówno strony Crime (informacje z wezwania) jak
 uzdrawiających innym graczom)  
 **5.4.** Nadużywanie mechanik frakcji przez Szeryfów jest zabronione! Tyczy się to „zakuwania na lasso”,
 przeszukiwania lub wysyłki do więzienia, w celu osiągnięcia przewagi nad innymi graczami.  
-**5.5.** Barmani z racji możliwości sprzedawania legalnie Bimbru, nie mogą sprzedawać go u NPC jako kontrabandy. Nie mogą go również samodzielnie pędzić.
 
 # 6.Definicje
 
