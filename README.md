@@ -17,7 +17,9 @@ Serwera RDR2 RP.
 odpowiedni kanał lub powiadomić Support.  
 **1.9.** Administracja ma prawo do usunięcia wiadomości, które uzna za niestosowne, mogących urazić graczy lub
 ugrupowanie.  
-**1.10.** Nazwa użytkownika/gracza musi być jednakowa zarówno na serwerze Discord WildWest jak i serwerze Roleplay RDR2.
+**1.10.** Nazwa użytkownika/gracza musi być jednakowa zarówno na serwerze Discord WildWest jak i serwerze Roleplay RDR2.  
+**1.11.** Kanały głosowe "Sprawa do Administracji" służą wyłącznie do załatwiania spraw związanych z zakończoną akcją, bądź zgłoszeniem innego gracza.  
+Odwołania od banów, sprawy dotyczące błędów technicznych należy zgłaszać poprzez ticket
 
 # 2.Regulamin Serwera WildWest.pl
 ## Postacie
@@ -122,7 +124,7 @@ to 3 lekarzy crime)
 jest zabronione! Tyczy się to zarówno strony Crime (informacje z wezwania) jak i strony Prawa (sprzedaż naparów
 uzdrawiających innym graczom)  
 **5.4.** Nadużywanie mechanik frakcji przez Szeryfów jest zabronione! Tyczy się to „zakuwania na lasso”,
-przeszukiwania lub wysyłki do więzienia, w celu osiągnięcia przewagi nad innymi graczami.
+przeszukiwania lub wysyłki do więzienia, w celu osiągnięcia przewagi nad innymi graczami.  
 
 # 6.Definicje
 
