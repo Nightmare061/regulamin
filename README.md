@@ -152,7 +152,8 @@ sukces nad innymi graczami bądź porażki. Przykładami akcji hostylnych są st
 - EVENT – Akcja integracyjna tworząca przez społeczność graczy lub administrację, tworzona w celu wprowadzenia
 zmian w rozgrywce lub zapewnienie rozgrywki graczom/grupie graczy
 - INICJACJA – Inicjacja słowna lub konkretna czynność np. strzał lub zakończenie negocjacji, która podczas wątku bądź też akcji, będzie skutkować konkretnymi
-konsekwencjami.
+konsekwencjami.  
+- AOP - Strefa Aktywnego Roleplay'u w którym dzieją się główne wątki oraz znajdują się siedziby głównych frakcji. Obecną strefą AOP jest miasteczko VALENTINE
 
 > Regulamin stworzony przez użytkownika Nightmare#0132 razem z pomocą społeczności.
 Administracja oraz Autor, zastrzegają sobie prawo do zmiany treści.
