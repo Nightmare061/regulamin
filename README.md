@@ -41,7 +41,7 @@ poważne rany w walce. Nadużycie może być potraktowane jako Powergaming/Fail 
 
 ## Założenia Ogólne
 
-**3.1.** Zakaz przenoszenia informacji z OOC do IC (np. oglądanie stream’a, informacje z discorda), przenoszenia
+**3.1.** Zakaz przenoszenia informacji z OOC do IC (np. oglądanie stream’a, siedzenie na discord voicechat), przenoszenia
 informacji między posiadanymi postaciami (zasada kuzynostwa/braci/rodziny) oraz przenoszenia IC do OOC (dramy,
 kłótnie, gównoburza). Jest to traktowane jako Metagaming (MG)  
 **3.2.** Zakaz korzystania z Z’etki (sprawdzania ID okolicznych graczy) w celu zdobycia informacji oraz przewagi nad
@@ -57,7 +57,7 @@ reakcji np. „XD”. Nadmierne nadużywanie zostanie potraktowane jako SPAM
 **3.6.** Zakaz nadużywanie tak zwanego „gówno-slangu”, czyli mowy stosowanej w obecnych czasach np. „spierdalaj
 cwelu”; „o kurwa”. Pamiętajmy że czas w odgrywanym świecie to 1899-1900 rok.  
 **3.7.** Zakaz ingerencji w wątek gracza/graczy, bez posiadania podstaw fabularnych.  
-**3.8.** Zakaz używania komend narracyjnym w celach do tego nie przeznaczonych lub w celu złamania regulaminu.
+**3.8.** Zakaz używania komend narracyjnym w celach do tego nie przeznaczonych lub w celu złamania regulaminu czy wymuszenia na kimś akcji (PG).
 Komendy narracyjne dzielą się na 4 typy:
 - komenda /me od opisu czynności, np. /me szyje spodnie
 - komenda /do od opisu stanu, np. /do rana mocno krwawi
@@ -116,14 +116,24 @@ oraz Fail RP.
 
 ## Założenia Frakcyjne
 
-**5.1.** Napary Orzeźwienia, używane do uzdrawiania graczy są traktowane jako „wiedza”. Korzystanie z nich przez
+**5.1.** Osoby odgrywające postacie Naczelnych Frakcji, nie mogą uprawiać korupcji lub brać udział w tworzeniu akcji hostylnych.  
+**5.2.** Osoby będące we frakcjach Szeryfów oraz Lekarzy, nie mogą być całkowicie skorumpowane. Dotyczy to naprzykład akcji pędzenia bimbru, sprzedaży kontrabandy lub przyjmowania zleceń morderstw innych graczy.
+
+Postacie lekarzy/doktorów, mogą zostać Lekarzem Crime za uprzednią zgodą Administracji. (Obecny limit
+to 3 lekarzy crime)
+
+**5.3.** Napary Orzeźwienia, używane do uzdrawiania graczy są traktowane jako „wiedza”. Korzystanie z nich przez
 osoby niepowiązane z frakcją Lekarzy/Lekarzy Crime jest zabronione!  
-**5.2.** Lekarzem Crime może zostać każda osoba należąca do frakcji, za uprzednią zgodą Administracji. (Obecny limit
-to 3 lekarzy crime)  
-**5.3.** Wykorzystywanie przez Lekarza informacji oraz mechanik w celu osiągnięcia przewagi lub złamania regulaminu
+**5.4.** Wykorzystywanie przez Lekarza informacji oraz mechanik w celu osiągnięcia przewagi lub złamania regulaminu
 jest zabronione! Tyczy się to zarówno strony Crime (informacje z wezwania) jak i strony Prawa (sprzedaż naparów
 uzdrawiających innym graczom)  
-**5.4.** Nadużywanie mechanik frakcji przez Szeryfów jest zabronione! Tyczy się to „zakuwania na lasso”,
+**5.5.** Lekarz ma prawo decydować o własnych umiejętnościach, w przypadku udzielania pomocy drugiemu graczowi, wbrew jego woli (PG poprzez komendy /do lub /try). Ranny może jednak zadecydować, o tym jak reaguje na leczenie.  
+Przykład:
+
+- Doktor decyduje o poprawności zakładaniu szwów   
+- Gracz decyduje o wytrzymałości szwów na jego działania
+
+**5.6** Nadużywanie mechanik frakcji przez Szeryfów jest zabronione! Tyczy się to „zakuwania na lasso”,
 przeszukiwania lub wysyłki do więzienia, w celu osiągnięcia przewagi nad innymi graczami.  
 
 # 6.Definicje
