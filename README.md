@@ -5,21 +5,21 @@
 kanałach bądź w wiadomościach prywatnych).  
 **1.2.** Zakaz udostępniania lub propagowania treści niestosownych, mogących urazić graczy lub ugrupowanie.  
 **1.3.** Zakaz używania obraźliwych nicków w tym pseudonimów obrażających ugrupowanie, bądź osoby prywatne.  
-**1.4.** Na Discordzie WildWest.pl kategorycznie zabrania się obrażania innych użytkowników, obowiązuje tutaj kultura
+**1.4.** Nazwa użytkownika/gracza musi być jednakowa zarówno na serwerze Discord WildWest jak i serwerze Roleplay RDR2.  
+**1.5.** Na Discordzie WildWest.pl kategorycznie zabrania się obrażania innych użytkowników, obowiązuje tutaj kultura
 osobista oraz szacunek do innych graczy.  
-**1.5.** Zakaz podszywania się pod Administracje/Moderacje Serwera.  
-**1.6.** Administracja ma prawo do nadawania bana/kick’a/muta/warna na użytkowników oraz usuwania z WhiteListy, bez
+**1.6.** Zakaz podszywania się pod Administracje/Moderacje Serwera.  
+**1.7.** Administracja ma prawo do nadawania bana/kick’a/muta/warna na użytkowników oraz usuwania z WhiteListy, bez
 podania konkretnego powodu.  
-**1.7.** Administracja ma prawo karać za czyny działające na szkodę serwera (np. bugowanie, podburzanie
+**1.8.** Administracja ma prawo karać za czyny działające na szkodę serwera (np. bugowanie, podburzanie
 społeczności), nawet jeśli nie ma ich uwzględnionych w regulaminie. Tyczy się to zarówno Serwera Discord, jak i
 Serwera RDR2 RP.  
-**1.8.** Zakaz pingowania Właścicieli oraz Developerów. W przypadku problemów/pomocy należy kierować Ticket na
-odpowiedni kanał lub powiadomić Support.  
-**1.9.** Administracja ma prawo do usunięcia wiadomości, które uzna za niestosowne, mogących urazić graczy lub
+**1.9.** Zakaz pingowania Właścicieli, Developerów oraz Administracji. W przypadku problemów/pomocy należy kierować Ticket na
+odpowiedni kanał lub powiadomić Support/Moderacje.  
+**1.10.** Administracja ma prawo do usunięcia wiadomości, które uzna za niestosowne, mogących urazić graczy lub
 ugrupowanie.  
-**1.10.** Nazwa użytkownika/gracza musi być jednakowa zarówno na serwerze Discord WildWest jak i serwerze Roleplay RDR2.  
 **1.11.** Kanały głosowe "Sprawa do Administracji" służą wyłącznie do załatwiania spraw związanych z zakończoną akcją, bądź zgłoszeniem innego gracza.  
-Odwołania od banów, sprawy dotyczące błędów technicznych należy zgłaszać poprzez ticket
+Odwołania od banów, sprawy dotyczące błędów technicznych należy zgłaszać poprzez ticket lu kontakt z Supportem.
 
 # 2.Regulamin Serwera WildWest.pl
 ## Postacie
@@ -55,7 +55,7 @@ to tak OOC jak i IC.
 **3.5.** Zakaz nadużywania czatu Local OOC zawartego w grze. Służy on przeważnie do zgłaszania problemów, nie do
 reakcji np. „XD”. Nadmierne nadużywanie zostanie potraktowane jako SPAM  
 **3.6.** Zakaz nadużywanie tak zwanego „gówno-slangu”, czyli mowy stosowanej w obecnych czasach np. „spierdalaj
-cwelu”; „o kurwa”. Pamiętajmy że czas w odgrywanym świecie to 1899-1900 rok.  
+cwelu”. Pamiętajmy że czas w odgrywanym świecie to 1899-1900 rok.  
 **3.7.** Zakaz ingerencji w wątek gracza/graczy, bez posiadania podstaw fabularnych.  
 **3.8.** Zakaz używania komend narracyjnym w celach do tego nie przeznaczonych lub w celu złamania regulaminu czy wymuszenia na kimś akcji (PG).
 Komendy narracyjne dzielą się na 4 typy:
@@ -72,7 +72,7 @@ danej sytuacji.
 **3.11.** Zakaz napaści na tle seksualnym (EPG) oraz torturowanie innych graczy sposobami, które mogą spowodować
 bardzo poważne rany (utrata ręki) lub CK.  
 **3.12.** Zakaz używania broni dystansowej (carcano/rollingblock) podczas akcji hostylnych. Broń ta służy WYŁĄCZNIE do polowań na zwierzynę lub misje pokroju Bounty Hunting.
-**3.12.** Zakaz robienia CK/FCK innym graczom, bez ich uprzedniej zgody oraz poważnych podstaw fabularnych.
+**3.13.** Zakaz robienia CK/FCK innym graczom, bez ich uprzedniej zgody oraz poważnych podstaw fabularnych.
 Prawo do FCK przysługuje:
 - przywódcom bandy/gangu, wśród swojej grupy (bez zgody administracji) oraz poza nią na swoich ofiarach
 (za zgodą administracji)
@@ -92,7 +92,7 @@ poważnych przewinień, list gończy będzie zawierać nagrodę, wyłącznie za 
 Maksymalnie do 2 bandytów; 2 szeryfów oraz 2 zakładników
 - Akcje Ciężkie (napad na bank, odbicia, napad na pociąg)
 Maksymalnie do 4 bandytów; 4 szeryfów oraz do 6 zakładników
-- Sadzenie oraz Pędzenie
+- Sadzenie, Pędzenie, Obrona Destylarni
 Maksymalnie do 4 bandytów
 - Akcje Eventowe
 Informacje w ogłoszeniach o eventach
