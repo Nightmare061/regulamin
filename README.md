@@ -71,7 +71,7 @@ odrodzeniu), należy odegrać Amnezje. Postać odgrywana, zapomina wszystkie wyd
 danej sytuacji.  
 **3.11.** Zakaz napaści na tle seksualnym (EPG) oraz torturowanie innych graczy sposobami, które mogą spowodować
 bardzo poważne rany (utrata ręki) lub CK.  
-**3.12.** Zakaz używania broni dystansowej (carcano/rollingblock) podczas akcji hostylnych. Broń ta służy WYŁĄCZNIE do polowań na zwierzynę lub misje pokroju Bounty Hunting.
+**3.12.** Zakaz używania broni dystansowej (carcano/rollingblock) podczas akcji hostylnych. Broń ta służy WYŁĄCZNIE do polowań na zwierzynę lub misje pokroju Bounty Hunting.  
 **3.13.** Zakaz robienia CK/FCK innym graczom, bez ich uprzedniej zgody oraz poważnych podstaw fabularnych.
 Prawo do FCK przysługuje:
 - przywódcom bandy/gangu, wśród swojej grupy (bez zgody administracji) oraz poza nią na swoich ofiarach
