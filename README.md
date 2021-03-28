@@ -56,7 +56,7 @@ to tak OOC jak i IC.
 reakcji np. „XD”. Nadmierne nadużywanie zostanie potraktowane jako SPAM  
 **3.6.** Zakaz nadużywanie tak zwanego „gówno-slangu”, czyli mowy stosowanej w obecnych czasach np. „spierdalaj
 cwelu”. Pamiętajmy że czas w odgrywanym świecie to 1899-1900 rok.  
-**3.7.** Zakaz ingerencji w wątek gracza/graczy, bez posiadania podstaw fabularnych.  
+**3.7.** Zakaz ingerencji w wątek gracza/graczy, bez posiadania podstaw fabularnych, lub w akcję hostylną bez uprzedniej prośby jedenj ze stron. Dołączenie do akcji bez uprzedniej prośby, może poskutkować FCK postaci.  
 **3.8.** Zakaz używania komend narracyjnym w celach do tego nie przeznaczonych lub w celu złamania regulaminu czy wymuszenia na kimś akcji (PG).
 Komendy narracyjne dzielą się na 4 typy:
 - komenda /me od opisu czynności, np. /me szyje spodnie
