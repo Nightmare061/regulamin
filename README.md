@@ -120,22 +120,22 @@ oraz Fail RP.
 **5.1.** Osoby odgrywające postacie Naczelnych Frakcji, nie mogą uprawiać korupcji lub brać udział w tworzeniu akcji hostylnych.  
 **5.2.** Osoby będące we frakcjach Szeryfów oraz Lekarzy, nie mogą być całkowicie skorumpowane. Dotyczy to naprzykład akcji pędzenia bimbru, sprzedaży kontrabandy lub przyjmowania zleceń morderstw innych graczy.
 
-Postacie lekarzy/doktorów, mogą zostać Lekarzem Crime za uprzednią zgodą Administracji. (Obecny limit
+Postacie lekarzy/doktorów, mogą zostać Lekarzem Crime za uprzednią zgodą Administracji (Obecny limit
 to 3 lekarzy crime)
 
-**5.3.** Napary Orzeźwienia, używane do uzdrawiania graczy są traktowane jako „wiedza”. Korzystanie z nich przez
+**5.3.** Członek frakcji ma prawo do wykonywania zawodu tylko do momentu, w którym jego nielegalna działalność zostanie wykryta. Przyłapanie ic skutkuje wydaleniem i odcięciem od dostępnych we frakcji zasobów.  
+**5.4.** Nadużywanie mechanik frakcji przez Szeryfów jest zabronione! Tyczy się to „zakuwania na lasso”,
+przeszukiwania lub wysyłki do więzienia, w celu osiągnięcia przewagi nad innymi graczami.  
+**5.5.** Napary Orzeźwienia, używane do uzdrawiania graczy są traktowane jako „wiedza”. Korzystanie z nich przez
 osoby niepowiązane z frakcją Lekarzy/Lekarzy Crime jest zabronione!  
-**5.4.** Wykorzystywanie przez Lekarza informacji oraz mechanik w celu osiągnięcia przewagi lub złamania regulaminu
+**5.6.** Wykorzystywanie przez Lekarza informacji oraz mechanik w celu osiągnięcia przewagi lub złamania regulaminu
 jest zabronione! Tyczy się to zarówno strony Crime (informacje z wezwania) jak i strony Prawa (sprzedaż naparów
 uzdrawiających innym graczom)  
-**5.5.** Lekarz ma prawo decydować o własnych umiejętnościach, w przypadku udzielania pomocy drugiemu graczowi, wbrew jego woli (PG poprzez komendy /do lub /try). Ranny może jednak zadecydować, o tym jak reaguje na leczenie.  
+**5.7.** Lekarz ma prawo decydować o własnych umiejętnościach, w przypadku udzielania pomocy drugiemu graczowi, wbrew jego woli (PG poprzez komendy /do lub /try). Ranny może jednak zadecydować, o tym jak reaguje na leczenie.  
 Przykład:
 
 - Doktor decyduje o poprawności zakładaniu szwów   
 - Gracz decyduje o wytrzymałości szwów na jego działania
-
-**5.6** Nadużywanie mechanik frakcji przez Szeryfów jest zabronione! Tyczy się to „zakuwania na lasso”,
-przeszukiwania lub wysyłki do więzienia, w celu osiągnięcia przewagi nad innymi graczami.  
 
 # 6.Definicje
 
