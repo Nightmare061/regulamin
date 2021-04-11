@@ -103,15 +103,16 @@ Konsekwencje ponosi strona wzywająca pomoc.
 **4.5.** W strefie bez Jurysdykcji Szeryfów (czerwona strefa), do zapoczątkowania akcji wystarczy minimalistyczna
 inicjacja oraz nie obowiązują tam żadne limity akcji hostylnych.  
 **4.6.** Zakazane są odbicia członka gangu w miejscu, w którym jest przetrzymywany (np. biuro szeryfa w Valentine).  
-**4.7.** Zakaz zabijania, porywania oraz okradania Szeryfów/Doktorów bez posiadania poważnych podstaw fabularnych. Okraść Szeryfa/Doktora można tylko w przypadku wątku, poprzez użycie komend narracyjnych, nie skryptów (używanie kajdanek)  
-**4.8.** Zakazane jest używania ciał graczy lub NPC jako tarczy, poprzez trzymanie ich na ramieniu, mając jednocześnie
+**4.7.** Zakaz zabijania oraz porywania Szeryfów/Doktorów bez posiadania poważnych podstaw fabularnych.
+**4.8.** Całkowity zakaz okradania/lootowania graczy z posiadanych przedmiotów. Wyjątkiem są sytuacje gdy poparte wątkiem lub akcją eventową.
+**4.9.** Zakazane jest używania ciał graczy lub NPC jako tarczy, poprzez trzymanie ich na ramieniu, mając jednocześnie
 wyciągniętą broń.  
-**4.9.** Podczas akcji Crime (np. napad na bank), zakazane jest podejmowanie działania, bądź strzelania bez uprzedniej
+**4.10.** Podczas akcji Crime (np. napad na bank), zakazane jest podejmowanie działania, bądź strzelania bez uprzedniej
 negocjacji lub inicjacji ze strony Szeryfów lub Bandytów.  
-**4.10.** Po akcji Crime, osoba atakująca/napadająca może zostać rozpoznana wciągu 40 minut (1 dzień IC), tylko i
+**4.11.** Po akcji Crime, osoba atakująca/napadająca może zostać rozpoznana wciągu 40 minut (1 dzień IC), tylko i
 wyłącznie, jeżeli będzie posiadać taki sam ubiór jak na akcji Crime. Późniejsze rozpoznanie, nie może być oparte
 samym wyglądem lub głosem, i wymaga dowodów.  
-**4.11.** Powracanie do miejsca akcji lub postaci (po BW, podniesiony przez lekarza czy skryptowo) w celu ocalenia
+**4.12.** Powracanie do miejsca akcji lub postaci (po BW, podniesiony przez lekarza czy skryptowo) w celu ocalenia
 członka bandy lub w celu dokonania zemsty poprzez zabójstwo bądź pobicie, będzie traktowane jako Revenge Kill
 oraz Fail RP.   
 
