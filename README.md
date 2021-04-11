@@ -103,8 +103,8 @@ Konsekwencje ponosi strona wzywająca pomoc.
 **4.5.** W strefie bez Jurysdykcji Szeryfów (czerwona strefa), do zapoczątkowania akcji wystarczy minimalistyczna
 inicjacja oraz nie obowiązują tam żadne limity akcji hostylnych.  
 **4.6.** Zakazane są odbicia członka gangu w miejscu, w którym jest przetrzymywany (np. biuro szeryfa w Valentine).  
-**4.7.** Zakaz zabijania oraz porywania Szeryfów/Doktorów bez posiadania poważnych podstaw fabularnych.
-**4.8.** Całkowity zakaz okradania/lootowania graczy z posiadanych przedmiotów. Wyjątkiem są sytuacje gdy poparte wątkiem lub akcją eventową.
+**4.7.** Zakaz zabijania oraz porywania Szeryfów/Doktorów bez posiadania poważnych podstaw fabularnych.  
+**4.8.** Całkowity zakaz okradania/lootowania graczy z posiadanych przedmiotów. Wyjątkiem są sytuacje gdy poparte wątkiem lub akcją eventową.  
 **4.9.** Zakazane jest używania ciał graczy lub NPC jako tarczy, poprzez trzymanie ich na ramieniu, mając jednocześnie
 wyciągniętą broń.  
 **4.10.** Podczas akcji Crime (np. napad na bank), zakazane jest podejmowanie działania, bądź strzelania bez uprzedniej
