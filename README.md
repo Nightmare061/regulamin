@@ -109,6 +109,7 @@ inicjacja oraz nie obowiązują tam żadne limity akcji hostylnych.
 - Napary uzdrawiające  
 - Klucze do domów  
 - Wszystkich broni szeryfom (jedną należy zostawić)  
+- Carcano oraz Rollingblock  
 
 Należy pamiętać że grabież powinna być odgrywana na /me oraz /do, a o posiadaniu rzeczy decyduje osoba okradana.
 **4.9.** Zakazane jest używania ciał graczy lub NPC jako tarczy, poprzez trzymanie ich na ramieniu, mając jednocześnie
