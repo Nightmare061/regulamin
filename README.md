@@ -108,10 +108,10 @@ inicjacja oraz nie obowiązują tam żadne limity akcji hostylnych.
 - Jedzenie oraz woda  
 - Napary uzdrawiające  
 - Klucze do domów  
-- Wszystkich broni szeryfom (jedną należy zostawić)  
+- Wszystkich broni szeryfom (jedną broń palną należy zostawić)  
 - Carcano oraz Rollingblock  
 
-Należy pamiętać że grabież powinna być odgrywana na /me oraz /do, a o posiadaniu rzeczy decyduje osoba okradana.
+Należy pamiętać że grabież powinna być odgrywana przy wykorzystaniu komend /me /do oraz /try.
 **4.9.** Zakazane jest używania ciał graczy lub NPC jako tarczy, poprzez trzymanie ich na ramieniu, mając jednocześnie
 wyciągniętą broń.  
 **4.10.** Podczas akcji Crime (np. napad na bank), zakazane jest podejmowanie działania, bądź strzelania bez uprzedniej
