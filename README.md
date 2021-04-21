@@ -5,20 +5,19 @@
 kanałach bądź w wiadomościach prywatnych).  
 **1.2.** Zakaz udostępniania lub propagowania treści niestosownych, mogących urazić graczy lub ugrupowanie.  
 **1.3.** Zakaz używania obraźliwych nicków w tym pseudonimów obrażających ugrupowanie, bądź osoby prywatne.  
-**1.4.** Nazwa użytkownika/gracza musi być jednakowa zarówno na serwerze Discord WildWest jak i serwerze Roleplay RDR2.  
-**1.5.** Na Discordzie WildWest.pl kategorycznie zabrania się obrażania innych użytkowników, obowiązuje tutaj kultura
+**1.4.** Na Discordzie WildWest.pl kategorycznie zabrania się obrażania innych użytkowników, obowiązuje tutaj kultura
 osobista oraz szacunek do innych graczy.  
-**1.6.** Zakaz podszywania się pod Administracje/Moderacje Serwera.  
-**1.7.** Administracja ma prawo do nadawania bana/kick’a/muta/warna na użytkowników oraz usuwania z WhiteListy, bez
+**1.5.** Zakaz podszywania się pod Administracje/Moderacje Serwera.  
+**1.6.** Administracja ma prawo do nadawania bana/kick’a/muta/warna na użytkowników oraz usuwania z WhiteListy, bez
 podania konkretnego powodu.  
-**1.8.** Administracja ma prawo karać za czyny działające na szkodę serwera (np. bugowanie, podburzanie
+**1.7.** Administracja ma prawo karać za czyny działające na szkodę serwera (np. bugowanie, podburzanie
 społeczności), nawet jeśli nie ma ich uwzględnionych w regulaminie. Tyczy się to zarówno Serwera Discord, jak i
 Serwera RDR2 RP.  
-**1.9.** Zakaz pingowania Właścicieli, Developerów oraz Administracji. W przypadku problemów/pomocy należy kierować Ticket na
+**1.8.** Zakaz pingowania Właścicieli, Developerów oraz Administracji. W przypadku problemów/pomocy należy kierować Ticket na
 odpowiedni kanał lub powiadomić Support/Moderacje.  
-**1.10.** Administracja ma prawo do usunięcia wiadomości, które uzna za niestosowne, mogących urazić graczy lub
+**1.9.** Administracja ma prawo do usunięcia wiadomości, które uzna za niestosowne, mogących urazić graczy lub
 ugrupowanie.  
-**1.11.** Kanały głosowe "Sprawa do Administracji" służą wyłącznie do załatwiania spraw związanych z zakończoną akcją, bądź zgłoszeniem innego gracza.  
+**1.10.** Kanały głosowe "Sprawa do Administracji" służą wyłącznie do załatwiania spraw związanych z zakończoną akcją, bądź zgłoszeniem innego gracza.  
 Odwołania od banów, sprawy dotyczące błędów technicznych należy zgłaszać poprzez ticket lu kontakt z Supportem.
 
 # 2.Regulamin Serwera WildWest.pl
@@ -30,7 +29,7 @@ postaci, może być traktowane jako Nieposzanowanie Życia.
 **2.2**. Nie bądź doskonały. Każda postać ma swoje mocne i słabe strony, a także nikt nie jest specjalistą we wszystkim.
 Dzięki swoim wadom jesteś w stanie dać możliwości rozgrywki innemu graczowi.  
 **2.3.** Staraj się trzymać zarysów swojej postaci. Z dnia na dzień nikt nie staje się wielkim człowiekiem, a także nikt się
-nie zmienia o 360 stopni. Dąż do swoich celów według zaplanowanej ścieżki, a w przypadku niepowodzenia nie
+nie zmienia o 180 stopni. Dąż do swoich celów według zaplanowanej ścieżki, a w przypadku niepowodzenia nie
 przechodź od razu na ciemną stronę.  
 **2.4.** Zakaz robienia postaci młodocianej. Wiek Twojej postaci nie powinien być niższy niż 20 lat.  
 **2.5.** Zakaz tworzenia oraz odgrywania postaci pochodzącej z realnego świata np. Jason Statham  
@@ -55,7 +54,7 @@ to tak OOC jak i IC.
 **3.5.** Zakaz nadużywania czatu Local OOC zawartego w grze. Służy on przeważnie do zgłaszania problemów, nie do
 reakcji np. „XD”. Nadmierne nadużywanie zostanie potraktowane jako SPAM  
 **3.6.** Zakaz nadużywanie tak zwanego „gówno-slangu”, czyli mowy stosowanej w obecnych czasach np. „spierdalaj
-cwelu”. Pamiętajmy że czas w odgrywanym świecie to 1899-1900 rok.  
+cwelu”. Pamiętajmy że czas w odgrywanym świecie to 1898-1900 rok.  
 **3.7.** Zakaz ingerencji w wątek gracza/graczy, bez posiadania podstaw fabularnych, lub w akcję hostylną bez uprzedniej prośby jedenj ze stron. Dołączenie do akcji bez uprzedniej prośby, może poskutkować FCK postaci.  
 **3.8.** Zakaz używania komend narracyjnym w celach do tego nie przeznaczonych lub w celu złamania regulaminu czy wymuszenia na kimś akcji (PG).
 Komendy narracyjne dzielą się na 4 typy:
@@ -64,8 +63,7 @@ Komendy narracyjne dzielą się na 4 typy:
 - komenda /opis od opisu stanu który jest długotrwały, np. /opis ma poszarpane ubrania
 - komenda /try od losowania szans na udanie się danej akcji, np.: /try podczas akcji kradzieży kieszonkowej
 
-**3.9.** Zakazane są napaści na graczy bez inicjacji, które mają na celu tylko i wyłącznie zabieranie broni, rzeczy lub
-konia. Jest to traktowane jako Loot RP.  
+**3.9.** Zakazane są napaści na graczy bez inicjacji, które mają na celu czyszczenie ekwipunku, bez zastosownaia odpowiedniej narracji. Jest to traktowane jako Loot RP.  
 **3.10.** Po odrodzeniu się postaci, w wyniku wypadku/wykrwawienia (kiedy nie została udzielona pomoc, po
 odrodzeniu), należy odegrać Amnezje. Postać odgrywana, zapomina wszystkie wydarzenia, które doprowadziły do
 danej sytuacji.  
@@ -91,7 +89,7 @@ poważnych przewinień, list gończy będzie zawierać nagrodę, wyłącznie za 
 - Akcje Lekkie (napad na sklep, rabunek, sprzedaż kontrabandy)
 Maksymalnie do 2 bandytów; 2 szeryfów oraz 2 zakładników
 - Akcje Ciężkie (napad na bank, odbicia, napad na pociąg)
-Maksymalnie do 4 bandytów; 4 szeryfów oraz do 6 zakładników
+Maksymalnie do 4 bandytów; 4 szeryfów oraz do 5 zakładników
 - Sadzenie, Pędzenie, Obrona Destylarni
 Maksymalnie do 4 bandytów
 - Akcje Eventowe
@@ -103,7 +101,7 @@ Konsekwencje ponosi strona wzywająca pomoc.
 **4.5.** W strefie bez Jurysdykcji Szeryfów (czerwona strefa), do zapoczątkowania akcji wystarczy minimalistyczna
 inicjacja oraz nie obowiązują tam żadne limity akcji hostylnych.  
 **4.6.** Zakazane są odbicia członka gangu w miejscu, w którym jest przetrzymywany (np. biuro szeryfa w Valentine).  
-**4.7.** Zakaz zabijania, porywania Szeryfów/Doktorów bez posiadania poważnych podstaw fabularnych.  
+**4.7.** Zakaz zabijania, porywania Szeryfów/Doktorów bez posiadania podstaw fabularnych.  
 **4.8.** Zakaz okradania ludzi na miejscu akcji hostylnej lub w zatłoczonym mieście. Okraść gracza można wyłącznie zdala od miejsca ostatniej akcji. Zabrać można wszystko poza następującymi rzeczami:  
 - Jedzenie oraz woda  
 - Napary uzdrawiające  
@@ -111,7 +109,7 @@ inicjacja oraz nie obowiązują tam żadne limity akcji hostylnych.
 - Wszystkich broni szeryfom (jedną broń palną należy zostawić)  
 - Carcano oraz Rollingblock  
 
-Należy pamiętać że grabież powinna być odgrywana przy wykorzystaniu komend /me /do oraz /try.
+Należy pamiętać że grabież powinna być odgrywana przy wykorzystaniu komend /me /do oraz /try.  
 **4.9.** Zakazane jest używania ciał graczy lub NPC jako tarczy, poprzez trzymanie ich na ramieniu, mając jednocześnie
 wyciągniętą broń.  
 **4.10.** Podczas akcji Crime (np. napad na bank), zakazane jest podejmowanie działania, bądź strzelania bez uprzedniej
@@ -126,12 +124,12 @@ oraz Fail RP.
 ## Założenia Frakcyjne
 
 **5.1.** Osoby odgrywające postacie Naczelnych Frakcji, nie mogą uprawiać korupcji lub brać udział w tworzeniu akcji hostylnych.  
-**5.2.** Osoby będące we frakcjach Szeryfów oraz Lekarzy, nie mogą być całkowicie skorumpowane. Dotyczy to naprzykład akcji pędzenia bimbru, sprzedaży kontrabandy lub przyjmowania zleceń morderstw innych graczy.
+**5.2.** Osoby będące we frakcjach Szeryfów oraz Lekarzy, nie mogą być całkowicie skorumpowane. Dotyczy to np.: akcji pędzenia bimbru, sprzedaży kontrabandy lub przyjmowania zleceń morderstw innych graczy.
 
 Postacie lekarzy/doktorów, mogą zostać Lekarzem Crime za uprzednią zgodą Administracji (Obecny limit
 to 3 lekarzy crime)
 
-**5.3.** Członek frakcji ma prawo do wykonywania zawodu tylko do momentu, w którym jego nielegalna działalność zostanie wykryta. Przyłapanie ic skutkuje wydaleniem i odcięciem od dostępnych we frakcji zasobów.  
+**5.3.** Członek frakcji ma prawo do wykonywania zawodu tylko do momentu, w którym jego nielegalna działalność zostanie wykryta. Przyłapanie IC skutkuje wydaleniem i odcięciem od dostępnych we frakcji zasobów.  
 **5.4.** Nadużywanie mechanik frakcji przez Szeryfów jest zabronione! Tyczy się to „zakuwania na lasso”,
 przeszukiwania lub wysyłki do więzienia, w celu osiągnięcia przewagi nad innymi graczami.  
 **5.5.** Napary Orzeźwienia, używane do uzdrawiania graczy są traktowane jako „wiedza”. Korzystanie z nich przez
