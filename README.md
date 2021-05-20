@@ -34,9 +34,9 @@ nie zmienia o 360 stopni. Dąż do swoich celów według zaplanowanej ścieżki,
 przechodź od razu na ciemną stronę.  
 **2.4.** Zakaz robienia postaci młodocianej. Wiek Twojej postaci nie powinien być niższy niż 20 lat.  
 **2.5.** Zakaz tworzenia oraz odgrywania postaci pochodzącej z realnego świata np. Jason Statham  
-**2.5**. Zakaz odgrywania postaci chorej psychicznie, która utrudnia rozgrywkę innym graczom lub korzysta ze swojego
+**2.6.**. Zakaz odgrywania postaci chorej psychicznie, która utrudnia rozgrywkę innym graczom lub korzysta ze swojego
 stanu do obchodzenia zasad RP  
-**2.6**. Nie odgrywaj postaci nietykalnej. Twoja postać jest w stanie się zatruć, stracić palec, ucho oraz otrzymać
+**2.7**. Nie odgrywaj postaci nietykalnej. Twoja postać jest w stanie się zatruć, stracić palec, ucho oraz otrzymać
 poważne rany w walce. Nadużycie może być potraktowane jako Powergaming/Fail RP  
 
 ## Założenia Ogólne
@@ -66,9 +66,7 @@ Komendy narracyjne dzielą się na 4 typy:
 
 **3.9.** Zakazane są napaści na graczy bez inicjacji, które mają na celu tylko i wyłącznie zabieranie broni, rzeczy lub
 konia. Jest to traktowane jako Loot RP.  
-**3.10.** Po odrodzeniu się postaci, w wyniku wypadku/wykrwawienia (kiedy nie została udzielona pomoc, po
-odrodzeniu), należy odegrać Amnezje. Postać odgrywana, zapomina wszystkie wydarzenia, które doprowadziły do
-danej sytuacji.  
+**3.10.** Po odrodzeniu się postaci, w wyniku wypadku/wykrwawienia (kiedy nie została udzielona pomoc, po odrodzeniu), należy odegrać Amnezje. Postać odgrywana, zapomina wszystkie wydarzenia, które doprowadziły do danej sytuacji.  
 **3.11.** Zakaz napaści na tle seksualnym (EPG) oraz torturowanie innych graczy sposobami, które mogą spowodować
 bardzo poważne rany (utrata ręki) lub CK.  
 **3.12.** Zakaz używania broni dystansowej (carcano/rollingblock) podczas akcji hostylnych. Broń ta służy WYŁĄCZNIE do polowań na zwierzynę lub misje pokroju Bounty Hunting.  
@@ -84,44 +82,36 @@ innych graczy (bez zgody administracji)
 
 ## Założenia Crime
 
-**4.1.** Jeżeli osoby powiązane z Crime, będą zachowywać się brawurowo lub będą za bardzo się wychylać (np.
-poprzez masowe mordowanie NPC, robienie serii banków), to zostaną obarczone listem gończym. W przypadku
-poważnych przewinień, list gończy będzie zawierać nagrodę, wyłącznie za martwego poszukiwanego.  
-**4.2.** Podczas akcji Crime, obowiązuje limit graczy dla frakcji bandytów oraz szeryfów:
+**4.1.** Podczas akcji Crime, obowiązuje limit graczy dla frakcji bandytów oraz szeryfów:
 - Akcje Lekkie (napad na sklep, rabunek, sprzedaż kontrabandy)
 Maksymalnie do 2 bandytów; 2 szeryfów oraz 2 zakładników
 - Akcje Ciężkie (napad na bank, odbicia, napad na pociąg)
 Maksymalnie do 4 bandytów; 4 szeryfów oraz do 6 zakładników
 - Sadzenie, Pędzenie, Obrona Destylarni
-Maksymalnie do 4 bandytów
+Maksymalnie do 4 bandytów; 4 szeryfów
 - Akcje Eventowe
 Informacje w ogłoszeniach o eventach
 
-**4.3.** Wzywanie pomocy Lekarza podczas trwającej akcji Crime jest traktowane jako przekroczenie limitów akcji.
-Konsekwencje ponosi strona wzywająca pomoc.  
-**4.4.** W strefie AOP nie obowiązują limity dla frakcji Szeryfów, podczas akcji hostylnej, napadów lub innych sytuacji Crime.  
-**4.5.** W strefie bez Jurysdykcji Szeryfów (czerwona strefa), do zapoczątkowania akcji wystarczy minimalistyczna
+**4.2.** Wzywanie pomocy Lekarza podczas trwającej akcji Crime jest traktowane jako przekroczenie limitów akcji. Konsekwencje ponosi strona wzywająca pomoc.  
+**4.3.** W strefie bez Jurysdykcji Szeryfów (czerwona strefa), do zapoczątkowania akcji wystarczy minimalistyczna
 inicjacja oraz nie obowiązują tam żadne limity akcji hostylnych.  
-**4.6.** Zakazane są odbicia członka gangu w miejscu, w którym jest przetrzymywany (np. biuro szeryfa w Valentine).  
-**4.7.** Zakaz zabijania, porywania Szeryfów/Doktorów bez posiadania poważnych podstaw fabularnych.  
-**4.8.** Zakaz okradania ludzi na miejscu akcji hostylnej lub w zatłoczonym mieście. Okraść gracza można wyłącznie zdala od miejsca ostatniej akcji. Zabrać można wszystko poza następującymi rzeczami:  
-- Jedzenie oraz woda  
+**4.4.** Zakaz wykonywania napadów lub innych akcji hostylnych będąc w niewłaściewej sesji  
+np. Przebywanie w Saint Denis na sesji 1 podczas wykonywania napadu na bank  
+**4.5.** Zakazane są odbicia członka gangu w miejscu, w którym jest przetrzymywany (np. biuro szeryfa w Valentine).  
+**4.6.** Zakaz zabijania, porywania Szeryfów/Doktorów bez posiadania poważnych podstaw fabularnych.  
+**4.7.** Zakaz okradania ludzi na miejscu akcji hostylnej lub w zatłoczonym mieście. Okraść gracza można wyłącznie zdala od miejsca ostatniej akcji. Zabrać można wszystko poza następującymi rzeczami:  
+- Jedzenie oraz picie  
 - Napary uzdrawiające  
 - Klucze do domów  
 - Wszystkich broni szeryfom (jedną broń palną należy zostawić)  
 - Carcano oraz Rollingblock  
 
-Należy pamiętać że grabież powinna być odgrywana przy wykorzystaniu komend /me /do oraz /try.
-**4.9.** Zakazane jest używania ciał graczy lub NPC jako tarczy, poprzez trzymanie ich na ramieniu, mając jednocześnie
+Należy pamiętać, że grabież powinna być odgrywana przy wykorzystaniu komend /me /do oraz /try.
+**4.8.** Zakazane jest używania ciał jako tarczy, poprzez trzymanie ich na ramieniu, mając jednocześnie
 wyciągniętą broń.  
-**4.10.** Podczas akcji Crime (np. napad na bank), zakazane jest podejmowanie działania, bądź strzelania bez uprzedniej
-negocjacji lub inicjacji ze strony Szeryfów lub Bandytów.  
-**4.11.** Po akcji Crime, osoba atakująca/napadająca może zostać rozpoznana wciągu 40 minut (1 dzień IC), tylko i
-wyłącznie, jeżeli będzie posiadać taki sam ubiór jak na akcji Crime. Późniejsze rozpoznanie, nie może być oparte
-samym wyglądem lub głosem, i wymaga dowodów.  
-**4.12.** Powracanie do miejsca akcji lub postaci (po BW, podniesiony przez lekarza czy skryptowo) w celu ocalenia
-członka bandy lub w celu dokonania zemsty poprzez zabójstwo bądź pobicie, będzie traktowane jako Revenge Kill
-oraz Fail RP.   
+**4.9.** Podczas akcji Crime (np. napad na bank), zakazane jest podejmowanie działania, bądź strzelania bez uprzedniej negocjacji lub inicjacji ze strony Szeryfów lub Bandytów.  
+**4.10.** Po akcji Crime, osoba atakująca/napadająca może zostać rozpoznana wciągu 40 minut (1 dzień IC), tylko i wyłącznie, jeżeli będzie posiadać taki sam ubiór jak na akcji Crime. Późniejsze rozpoznanie, nie może być oparte samym wyglądem lub głosem, i wymaga dowodów.  
+**4.11.** Powracanie do miejsca akcji lub postaci (po BW, podniesiony przez lekarza czy skryptowo) w celu ocalenia członka bandy lub w celu dokonania zemsty poprzez zabójstwo bądź pobicie, będzie traktowane jako Revenge Kill oraz Fail RP.   
 
 ## Założenia Frakcyjne
 
@@ -160,7 +150,7 @@ gracza wyobrażamy sobie, że jest to miejsce pełne osób więc nie pozwalamy s
 - RK (Revenge Kill) - Powracanie do osoby po uzdrowieniu w celu dokonania zemsty poprzez zabójstwo bądź pobicie
 - RDM (Random Deathmatch) – Atakowanie przypadkowych graczy/NPC bez żadnej podstawy
 - CL (Combat Log) - Wyjście z serwera w celu uniknięcia konsekwencji bądź brania udziału w akcji
-- CK / FCK (Characket Kill / Force Character Kill) – Zabicie postaci gracza w sposób polubowny lub wymuszony,
+- CK / FCK (Character Kill / Force Character Kill) – Zabicie postaci gracza w sposób polubowny lub wymuszony,
 skutkujące jej usunięciem.
 - CN (Celebrity Name) – Odgrywanie postaci realnej i znanej z danego uniwersum, np. George Bush
 - MP (Mental Playing) - Odgrywanie osoby chorej psychicznie która utrudnia prowadzenie rozgrywki/akcji RP innym
@@ -172,7 +162,9 @@ sukces nad innymi graczami bądź porażki. Przykładami akcji hostylnych są st
 zmian w rozgrywce lub zapewnienie rozgrywki graczom/grupie graczy
 - INICJACJA – Inicjacja słowna lub konkretna czynność np. strzał lub zakończenie negocjacji, która podczas wątku bądź też akcji, będzie skutkować konkretnymi
 konsekwencjami.  
-- AOP - Strefa Aktywnego Roleplay'u w którym dzieją się główne wątki oraz znajdują się siedziby głównych frakcji. Obecną strefą AOP jest miasteczko VALENTINE
+- GREEN ZONE - Strefa wyłaczona z wszelakich akcji hostylnych, gdzie obowiązuje Peace and Love.  
+Aktualnymi strefami GREEN ZONE są wszystkie punkty przejścia między sesjami
+
 
 > Regulamin stworzony przez użytkownika Nightmare#0132 razem z pomocą społeczności.
 Administracja oraz Autor, zastrzegają sobie prawo do zmiany treści.
