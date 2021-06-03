@@ -5,21 +5,20 @@
 kanałach bądź w wiadomościach prywatnych).  
 **1.2.** Zakaz udostępniania lub propagowania treści niestosownych, mogących urazić graczy lub ugrupowanie.  
 **1.3.** Zakaz używania obraźliwych nicków w tym pseudonimów obrażających ugrupowanie, bądź osoby prywatne.  
-**1.4.** Nazwa użytkownika/gracza musi być jednakowa zarówno na serwerze Discord WildWest jak i serwerze Roleplay RDR2.  
-**1.5.** Na Discordzie WildWest.pl kategorycznie zabrania się obrażania innych użytkowników, obowiązuje tutaj kultura
+**1.4.** Na Discordzie WildWest.pl kategorycznie zabrania się obrażania innych użytkowników, obowiązuje tutaj kultura
 osobista oraz szacunek do innych graczy.  
-**1.6.** Zakaz podszywania się pod Administracje/Moderacje Serwera.  
-**1.7.** Administracja ma prawo do nadawania bana/kick’a/muta/warna na użytkowników oraz usuwania z WhiteListy, bez
+**1.5.** Zakaz podszywania się pod Administracje/Moderacje Serwera.  
+**1.6.** Administracja ma prawo do nadawania bana/kick’a/muta/warna na użytkowników oraz usuwania z WhiteListy, bez
 podania konkretnego powodu.  
-**1.8.** Administracja ma prawo karać za czyny działające na szkodę serwera (np. bugowanie, podburzanie
+**1.7.** Administracja ma prawo karać za czyny działające na szkodę serwera (np. bugowanie, podburzanie
 społeczności), nawet jeśli nie ma ich uwzględnionych w regulaminie. Tyczy się to zarówno Serwera Discord, jak i
 Serwera RDR2 RP.  
-**1.9.** Zakaz pingowania Właścicieli, Developerów oraz Administracji. W przypadku problemów/pomocy należy kierować Ticket na
+**1.8.** Zakaz pingowania Właścicieli, Developerów oraz Administracji. W przypadku problemów/pomocy należy kierować Ticket na
 odpowiedni kanał lub powiadomić Support/Moderacje.  
-**1.10.** Administracja ma prawo do usunięcia wiadomości, które uzna za niestosowne, mogących urazić graczy lub
+**1.9.** Administracja ma prawo do usunięcia wiadomości, które uzna za niestosowne, mogących urazić graczy lub
 ugrupowanie.  
-**1.11.** Kanały głosowe "Sprawa do Administracji" służą wyłącznie do załatwiania spraw związanych z zakończoną akcją, bądź zgłoszeniem innego gracza.  
-Odwołania od banów, sprawy dotyczące błędów technicznych należy zgłaszać poprzez ticket lu kontakt z Supportem.
+**1.10.** Kanały głosowe "Sprawa do Administracji" służą wyłącznie do załatwiania spraw związanych z zakończoną akcją, bądź zgłoszeniem innego gracza.  
+Odwołania od banów, sprawy dotyczące błędów technicznych należy zgłaszać poprzez ticket lub kontakt z Supportem.
 
 # 2.Regulamin Serwera WildWest.pl
 ## Postacie
@@ -106,12 +105,13 @@ np. Przebywanie w Saint Denis na sesji 1 podczas wykonywania napadu na bank
 - Wszystkich broni szeryfom (jedną broń palną należy zostawić)  
 - Carcano oraz Rollingblock  
 
-Należy pamiętać, że grabież powinna być odgrywana przy wykorzystaniu komend /me /do oraz /try.
+Należy pamiętać, że grabież powinna być odgrywana przy wykorzystaniu komend /me /do oraz /try.  
 **4.8.** Zakazane jest używania ciał jako tarczy, poprzez trzymanie ich na ramieniu, mając jednocześnie
 wyciągniętą broń.  
 **4.9.** Podczas akcji Crime (np. napad na bank), zakazane jest podejmowanie działania, bądź strzelania bez uprzedniej negocjacji lub inicjacji ze strony Szeryfów lub Bandytów.  
-**4.10.** Po akcji Crime, osoba atakująca/napadająca może zostać rozpoznana wciągu 40 minut (1 dzień IC), tylko i wyłącznie, jeżeli będzie posiadać taki sam ubiór jak na akcji Crime. Późniejsze rozpoznanie, nie może być oparte samym wyglądem lub głosem, i wymaga dowodów.  
-**4.11.** Powracanie do miejsca akcji lub postaci (po BW, podniesiony przez lekarza czy skryptowo) w celu ocalenia członka bandy lub w celu dokonania zemsty poprzez zabójstwo bądź pobicie, będzie traktowane jako Revenge Kill oraz Fail RP.   
+**4.10.** Podczas podejmowania działań hostylnych lub wątkowych na podłożu Sheriff/Crime, zakazane jest uciekanie do miejsc z możliwością zablokowania prowadzenia dalszego wątku/ackji roleplay. Przykład: ucieczka do zamykanego na klucz pokoju hotelowego podczas ucieczki.  
+**4.11.** Po akcji Crime, osoba atakująca/napadająca może zostać rozpoznana wciągu 40 minut (1 dzień IC), tylko i wyłącznie, jeżeli będzie posiadać taki sam ubiór jak na akcji Crime. Późniejsze rozpoznanie, nie może być oparte samym wyglądem lub głosem, i wymaga dowodów.  
+**4.12.** Powracanie do miejsca akcji lub postaci (po BW, podniesiony przez lekarza czy skryptowo) w celu ocalenia członka bandy lub w celu dokonania zemsty poprzez zabójstwo bądź pobicie, będzie traktowane jako Revenge Kill oraz Fail RP.   
 
 ## Założenia Frakcyjne
 
@@ -163,7 +163,7 @@ zmian w rozgrywce lub zapewnienie rozgrywki graczom/grupie graczy
 - INICJACJA – Inicjacja słowna lub konkretna czynność np. strzał lub zakończenie negocjacji, która podczas wątku bądź też akcji, będzie skutkować konkretnymi
 konsekwencjami.  
 - GREEN ZONE - Strefa wyłaczona z wszelakich akcji hostylnych, gdzie obowiązuje Peace and Love.  
-Aktualnymi strefami GREEN ZONE są wszystkie punkty przejścia między sesjami
+Aktualnymi strefami GREEN ZONE są wszystkie punkty przejścia między sesjami.
 
 
 > Regulamin stworzony przez użytkownika Nightmare#0132 razem z pomocą społeczności.
