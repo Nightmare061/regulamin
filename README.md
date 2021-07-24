@@ -29,22 +29,23 @@ postaci, może być traktowane jako Nieposzanowanie Życia.
 **2.2**. Nie bądź doskonały. Każda postać ma swoje mocne i słabe strony, a także nikt nie jest specjalistą we wszystkim.
 Dzięki swoim wadom jesteś w stanie dać możliwości rozgrywki innemu graczowi.  
 **2.3.** Staraj się trzymać zarysów swojej postaci. Z dnia na dzień nikt nie staje się wielkim człowiekiem, a także nikt się
-nie zmienia o 360 stopni. Dąż do swoich celów według zaplanowanej ścieżki, a w przypadku niepowodzenia nie
+nie zmienia o 180 stopni. Dąż do swoich celów według zaplanowanej ścieżki, a w przypadku niepowodzenia nie
 przechodź od razu na ciemną stronę.  
 **2.4.** Zakaz robienia postaci młodocianej. Wiek Twojej postaci nie powinien być niższy niż 20 lat.  
-**2.5.** Zakaz tworzenia oraz odgrywania postaci pochodzącej z realnego świata np. Jason Statham  
+**2.5.** Zakaz tworzenia, odgrywania lub posiadania imienia oraz nazwiska, postaci pochodzącej z realnego świata np. Jason Statham  
 **2.6.**. Zakaz odgrywania postaci chorej psychicznie, która utrudnia rozgrywkę innym graczom lub korzysta ze swojego
 stanu do obchodzenia zasad RP  
 **2.7**. Nie odgrywaj postaci nietykalnej. Twoja postać jest w stanie się zatruć, stracić palec, ucho oraz otrzymać
 poważne rany w walce. Nadużycie może być potraktowane jako Powergaming/Fail RP  
+**2.8.** Nie bądź niewrażliwy na otaczający świat. Powinieneś szanować życie swoje oraz innych, a w sytuacji stresowej zachowadź się odpowiednio.   
 
 ## Założenia Ogólne
 
-**3.1.** Zakaz przenoszenia informacji z OOC do IC (np. oglądanie stream’a, siedzenie na discord voicechat), przenoszenia
+**3.1.** Całkowity zakaz przenoszenia informacji z OOC do IC (np. oglądanie stream’a, siedzenie na discord voicechat), przenoszenia
 informacji między posiadanymi postaciami (zasada kuzynostwa/braci/rodziny) oraz przenoszenia IC do OOC (dramy,
 kłótnie, gównoburza). Jest to traktowane jako Metagaming (MG)  
 **3.2.** Zakaz korzystania z Z’etki (sprawdzania ID okolicznych graczy) w celu zdobycia informacji oraz przewagi nad
-resztą. Jest to traktowane jako Metagaming (MG), a sama funkcja powinna być wykorzystywana w np. sytuacji
+resztą. Jest to traktowane jako Metagaming (MG), a sama funkcja powinna być wykorzystywana tylko i wyłącznie w sytuacji
 zgłoszenia gracza.  
 **3.3** Zakaz przerywania trwającej akcji bądź burzenia ściany immersji, poprzez wzywanie na kanał administracyjny lub
 np.: wskrzeszanie uśmierconej postaci. Akcję roleplay należy doprowadzić do końca, a także trzymać się założeń
@@ -55,7 +56,7 @@ to tak OOC jak i IC.
 reakcji np. „XD”. Nadmierne nadużywanie zostanie potraktowane jako SPAM  
 **3.6.** Zakaz nadużywanie tak zwanego „gówno-slangu”, czyli mowy stosowanej w obecnych czasach np. „spierdalaj
 cwelu”. Pamiętajmy że czas w odgrywanym świecie to 1899-1900 rok.  
-**3.7.** Zakaz ingerencji w wątek gracza/graczy, bez posiadania podstaw fabularnych, lub w akcję hostylną bez uprzedniej prośby jedenj ze stron. Dołączenie do akcji bez uprzedniej prośby, może poskutkować FCK postaci.  
+**3.7.** Zakaz ingerencji w akcję hostylną bez uprzedniej prośby jedenj ze stron lub głęboko zakorzenionego wątku. Dołączenie do akcji bez uprzedniej prośby, może poskutkować FCK postaci.  
 **3.8.** Zakaz używania komend narracyjnym w celach do tego nie przeznaczonych lub w celu złamania regulaminu czy wymuszenia na kimś akcji (PG).
 Komendy narracyjne dzielą się na 4 typy:
 - komenda /me od opisu czynności, np. /me szyje spodnie
@@ -91,11 +92,13 @@ Maksymalnie do 4 bandytów; 4 szeryfów
 - Akcje Eventowe
 Informacje w ogłoszeniach o eventach
 
+W przypadku sytuacji problematycznych lub niejasnych, kierujemy się zasadą Fair Play lub wysyłamy ticket z pytaniem do Administracji/Moderacji/Supportu.
+
 **4.2.** Wzywanie pomocy Lekarza podczas trwającej akcji Crime jest traktowane jako przekroczenie limitów akcji. Konsekwencje ponosi strona wzywająca pomoc.  
 **4.3.** W strefie bez Jurysdykcji Szeryfów (czerwona strefa), do zapoczątkowania akcji wystarczy minimalistyczna
 inicjacja oraz nie obowiązują tam żadne limity akcji hostylnych.  
 **4.4.** Zakaz wykonywania napadów lub innych akcji hostylnych będąc w niewłaściewej sesji  
-np. Przebywanie w Saint Denis na sesji 1 podczas wykonywania napadu na bank  
+np. Przebywanie w Saint Denis na sesji 1 podczas wykonywania napadu na bank. Akcja rozpoczęta na danej sesji, powinna się tam zakończyć. Przechodzenie między sesjami podczas trwającej akcji będzie skutkować banem.  
 **4.5.** Zakazane są odbicia członka gangu w miejscu, w którym jest przetrzymywany (np. biuro szeryfa w Valentine).  
 **4.6.** Zakaz zabijania, porywania Szeryfów/Doktorów bez posiadania poważnych podstaw fabularnych.  
 **4.7.** Zakaz okradania ludzi na miejscu akcji hostylnej lub w zatłoczonym mieście. Okraść gracza można wyłącznie zdala od miejsca ostatniej akcji. Zabrać można wszystko poza następującymi rzeczami:  
@@ -106,12 +109,13 @@ np. Przebywanie w Saint Denis na sesji 1 podczas wykonywania napadu na bank
 - Carcano oraz Rollingblock  
 
 Należy pamiętać, że grabież powinna być odgrywana przy wykorzystaniu komend /me /do oraz /try.  
-**4.8.** Zakazane jest używania ciał jako tarczy, poprzez trzymanie ich na ramieniu, mając jednocześnie
+**4.8.** Całkowity zakaz zmuszania porwanych do otwierania skrytek bankowych (wypłata z banku/wyjmowanie ze schowka), skrytek w domostwach, miejscach pracy lub obozach gangu. Obejmuje to również przekazywania koni, wozów oraz innych sytuacji do których jest nam potrzebny drugi gracz. Jest to traktowane jako PG oraz FailRP   
+**4.9.** Zakazane jest używania ciał jako tarczy, poprzez trzymanie ich na ramieniu, mając jednocześnie
 wyciągniętą broń.  
-**4.9.** Podczas akcji Crime (np. napad na bank), zakazane jest podejmowanie działania, bądź strzelania bez uprzedniej negocjacji lub inicjacji ze strony Szeryfów lub Bandytów.  
-**4.10.** Podczas podejmowania działań hostylnych lub wątkowych na podłożu Sheriff/Crime, zakazane jest uciekanie do miejsc z możliwością zablokowania prowadzenia dalszego wątku/ackji roleplay. Przykład: ucieczka do zamykanego na klucz pokoju hotelowego podczas ucieczki.  
-**4.11.** Po akcji Crime, osoba atakująca/napadająca może zostać rozpoznana wciągu 40 minut (1 dzień IC), tylko i wyłącznie, jeżeli będzie posiadać taki sam ubiór jak na akcji Crime. Późniejsze rozpoznanie, nie może być oparte samym wyglądem lub głosem, i wymaga dowodów.  
-**4.12.** Powracanie do miejsca akcji lub postaci (po BW, podniesiony przez lekarza czy skryptowo) w celu ocalenia członka bandy lub w celu dokonania zemsty poprzez zabójstwo bądź pobicie, będzie traktowane jako Revenge Kill oraz Fail RP.   
+**4.10.** Podczas akcji Crime (np. napad na bank), zakazane jest podejmowanie działania, bądź strzelania bez uprzedniej negocjacji lub inicjacji ze strony Szeryfów lub Bandytów.  
+**4.11.** Podczas podejmowania działań hostylnych lub wątkowych na podłożu Sheriff/Crime, zakazane jest uciekanie do miejsc z możliwością zablokowania prowadzenia dalszego wątku/ackji roleplay. Przykład: ucieczka do zamykanego na klucz pokoju hotelowego podczas ucieczki.  
+**4.12.** Po akcji Crime, osoba atakująca/napadająca może zostać rozpoznana wciągu 40 minut (1 dzień IC), tylko i wyłącznie, jeżeli będzie posiadać taki sam ubiór jak na akcji Crime. Późniejsze rozpoznanie, nie może być oparte samym wyglądem lub głosem, i wymaga dowodów.  
+**4.13.** Powracanie do miejsca akcji lub postaci (po BW, podniesiony przez lekarza czy skryptowo) w celu ocalenia członka bandy lub w celu dokonania zemsty poprzez zabójstwo bądź pobicie, będzie traktowane jako Revenge Kill oraz Fail RP.   
 
 ## Założenia Frakcyjne
 
