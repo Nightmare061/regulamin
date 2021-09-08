@@ -13,11 +13,12 @@ podania konkretnego powodu.
 **1.7.** Administracja ma prawo karać za czyny działające na szkodę serwera (np. bugowanie, podburzanie
 społeczności), nawet jeśli nie ma ich uwzględnionych w regulaminie. Tyczy się to zarówno Serwera Discord, jak i
 Serwera RDR2 RP.  
-**1.8.** Zakaz pingowania Właścicieli, Developerów oraz Administracji. W przypadku problemów/pomocy należy kierować Ticket na
+**1.8.** Zakazuje się przekazywania, sprzedawania oraz dzielenia się kontem z posiadaną Whitelistą. Dotyczy to również współdzielenia konta lub licencji gry.  
+**1.9.** Zakaz pingowania Właścicieli, Developerów oraz Administracji. W przypadku problemów/pomocy należy kierować Ticket na
 odpowiedni kanał lub powiadomić Support/Moderacje.  
-**1.9.** Administracja ma prawo do usunięcia wiadomości, które uzna za niestosowne, mogących urazić graczy lub
+**1.10.** Administracja ma prawo do usunięcia wiadomości, które uzna za niestosowne, mogących urazić graczy lub
 ugrupowanie.  
-**1.10.** Kanały głosowe "Sprawa do Administracji" służą wyłącznie do załatwiania spraw związanych z zakończoną akcją, bądź zgłoszeniem innego gracza.  
+**1.11.** Kanały głosowe "Sprawa do Administracji" służą wyłącznie do załatwiania spraw związanych z zakończoną akcją, bądź zgłoszeniem innego gracza.  
 Odwołania od banów, sprawy dotyczące błędów technicznych należy zgłaszać poprzez ticket lub kontakt z Supportem.
 
 # 2.Regulamin Serwera WildWest.pl
@@ -80,6 +81,9 @@ Prawo do FCK przysługuje:
 - doktorom, w przypadku bardzo poważnych obrażeń, powstałych na skutek wątku, a nie Powergamingu
 innych graczy (bez zgody administracji)
 
+**3.14.** Panel opisu Stanu Pacjenta (pojawiający się po BW) służy do przekazania opisu stanu postaci lekarzowi. Nie służy on do przekazywania informacji takich jak np "Co doprowadziło Cię do obecnego stanu", tylko jakie obrażenia odniosła Twoja postać.
+Przekazywanie opisu niezgodnego z sytuacją jest traktowane jako FailRP  
+
 ## Założenia Crime
 
 **4.1.** Podczas akcji Crime, obowiązuje limit graczy dla frakcji bandytów oraz szeryfów:
@@ -94,14 +98,15 @@ Informacje w ogłoszeniach o eventach
 
 W przypadku sytuacji problematycznych lub niejasnych, kierujemy się zasadą Fair Play lub wysyłamy ticket z pytaniem do Administracji/Moderacji/Supportu.
 
-**4.2.** Wzywanie pomocy Lekarza podczas trwającej akcji Crime jest traktowane jako przekroczenie limitów akcji. Konsekwencje ponosi strona wzywająca pomoc.  
-**4.3.** W strefie bez Jurysdykcji Szeryfów (czerwona strefa), do zapoczątkowania akcji wystarczy minimalistyczna
-inicjacja oraz nie obowiązują tam żadne limity akcji hostylnych.  
-**4.4.** Zakaz wykonywania napadów lub innych akcji hostylnych będąc w niewłaściewej sesji  
+**4.2.** Zakazuje się organizowania podstawionych zakładników na akcje hostylne.  
+**4.3.** Wzywanie pomocy Lekarza podczas trwającej akcji Crime jest traktowane jako przekroczenie limitów akcji. Konsekwencje ponosi strona wzywająca pomoc.  
+**4.4.** W strefie bez Jurysdykcji Szeryfów (czerwona strefa), do zapoczątkowania akcji wystarczy minimalistyczna
+inicjacja (np okrzyk bojowy) oraz nie obowiązują tam żadne limity akcji hostylnych.  
+**4.5.** Zakaz wykonywania napadów lub innych akcji hostylnych będąc w niewłaściewej sesji  
 np. Przebywanie w Saint Denis na sesji 1 podczas wykonywania napadu na bank. Akcja rozpoczęta na danej sesji, powinna się tam zakończyć. Przechodzenie między sesjami podczas trwającej akcji będzie skutkować banem.  
-**4.5.** Zakazane są odbicia członka gangu w miejscu, w którym jest przetrzymywany (np. biuro szeryfa w Valentine).  
-**4.6.** Zakaz zabijania, porywania Szeryfów/Doktorów bez posiadania poważnych podstaw fabularnych.  
-**4.7.** Zakaz okradania ludzi na miejscu akcji hostylnej lub w zatłoczonym mieście. Okraść gracza można wyłącznie zdala od miejsca ostatniej akcji. Zabrać można wszystko poza następującymi rzeczami:  
+**4.6.** Zakazane są odbicia członka gangu w miejscu, w którym jest przetrzymywany (np. biuro szeryfa w Valentine).  
+**4.7.** Zakaz zabijania, porywania Szeryfów/Doktorów bez posiadania poważnych podstaw fabularnych.  
+**4.8.** Zakaz okradania ludzi na miejscu akcji hostylnej lub w zatłoczonym mieście. Okraść gracza można wyłącznie zdala od miejsca ostatniej akcji. Zabrać można wszystko poza następującymi rzeczami:  
 - Jedzenie oraz picie  
 - Napary uzdrawiające  
 - Klucze do domów  
@@ -109,25 +114,25 @@ np. Przebywanie w Saint Denis na sesji 1 podczas wykonywania napadu na bank. Akc
 - Carcano oraz Rollingblock  
 
 Należy pamiętać, że grabież powinna być odgrywana przy wykorzystaniu komend /me /do oraz /try.  
-**4.8.** Całkowity zakaz zmuszania porwanych do otwierania skrytek bankowych (wypłata z banku/wyjmowanie ze schowka), skrytek w domostwach, miejscach pracy lub obozach gangu. Obejmuje to również przekazywania koni, wozów oraz innych sytuacji do których jest nam potrzebny drugi gracz. Jest to traktowane jako PG oraz FailRP   
-**4.9.** Zakazane jest używania ciał jako tarczy, poprzez trzymanie ich na ramieniu, mając jednocześnie
+**4.9.** Całkowity zakaz zmuszania porwanych do otwierania skrytek bankowych (wypłata z banku/wyjmowanie ze schowka), skrytek w domostwach, miejscach pracy lub obozach gangu. Obejmuje to również przekazywania koni, wozów oraz innych sytuacji do których jest nam potrzebny drugi gracz. Jest to traktowane jako PG oraz FailRP   
+**4.10.** Zakazane jest używania ciał jako tarczy, poprzez trzymanie ich na ramieniu, mając jednocześnie
 wyciągniętą broń.  
-**4.10.** Podczas akcji Crime (np. napad na bank), zakazane jest podejmowanie działania, bądź strzelania bez uprzedniej negocjacji lub inicjacji ze strony Szeryfów lub Bandytów.  
-**4.11.** Podczas podejmowania działań hostylnych lub wątkowych na podłożu Sheriff/Crime, zakazane jest uciekanie do miejsc z możliwością zablokowania prowadzenia dalszego wątku/ackji roleplay. Przykład: ucieczka do zamykanego na klucz pokoju hotelowego podczas ucieczki.  
-**4.12.** Po akcji Crime, osoba atakująca/napadająca może zostać rozpoznana wciągu 40 minut (1 dzień IC), tylko i wyłącznie, jeżeli będzie posiadać taki sam ubiór jak na akcji Crime. Późniejsze rozpoznanie, nie może być oparte samym wyglądem lub głosem, i wymaga dowodów.  
-**4.13.** Powracanie do miejsca akcji lub postaci (po BW, podniesiony przez lekarza czy skryptowo) w celu ocalenia członka bandy lub w celu dokonania zemsty poprzez zabójstwo bądź pobicie, będzie traktowane jako Revenge Kill oraz Fail RP.   
+**4.11.** Podczas akcji Crime (np. napad na bank), zakazane jest podejmowanie działania, bądź strzelania bez uprzedniej negocjacji lub inicjacji ze strony Szeryfów lub Bandytów.  
+**4.12.** Podczas podejmowania działań hostylnych lub wątkowych na podłożu Sheriff/Crime, zakazane jest uciekanie do miejsc z możliwością zablokowania prowadzenia dalszego wątku/ackji roleplay. Przykład: ucieczka do zamykanego na klucz pokoju hotelowego podczas ucieczki.  
+**4.13.** Po akcji Crime, osoba atakująca/napadająca może zostać rozpoznana wciągu 40 minut (1 dzień IC), tylko i wyłącznie, jeżeli będzie posiadać taki sam ubiór jak na akcji Crime. Późniejsze rozpoznanie, nie może być oparte samym wyglądem lub głosem, i wymaga dowodów.  
+**4.14.** Powracanie do miejsca akcji lub postaci (po BW, podniesiony przez lekarza czy skryptowo) w celu ocalenia członka bandy lub w celu dokonania zemsty poprzez zabójstwo bądź pobicie, będzie traktowane jako Revenge Kill oraz Fail RP.   
 
 ## Założenia Frakcyjne
 
 **5.1.** Osoby odgrywające postacie Naczelnych Frakcji, nie mogą uprawiać korupcji lub brać udział w tworzeniu akcji hostylnych.  
-**5.2.** Osoby będące we frakcjach Szeryfów oraz Lekarzy, nie mogą być całkowicie skorumpowane. Dotyczy to naprzykład akcji pędzenia bimbru, sprzedaży kontrabandy lub przyjmowania zleceń morderstw innych graczy.
+**5.2.** Osoby będące we frakcjach Szeryfów oraz Lekarzy, nie mogą być całkowicie skorumpowane. Dotyczy to na przykład akcji pędzenia bimbru, sprzedaży kontrabandy lub przyjmowania zleceń morderstw innych graczy.
 
 Postacie lekarzy/doktorów, mogą zostać Lekarzem Crime za uprzednią zgodą Administracji (Obecny limit
 to 3 lekarzy crime)
 
 **5.3.** Członek frakcji ma prawo do wykonywania zawodu tylko do momentu, w którym jego nielegalna działalność zostanie wykryta. Przyłapanie ic skutkuje wydaleniem i odcięciem od dostępnych we frakcji zasobów.  
 **5.4.** Nadużywanie mechanik frakcji przez Szeryfów jest zabronione! Tyczy się to „zakuwania na lasso”,
-przeszukiwania lub wysyłki do więzienia, w celu osiągnięcia przewagi nad innymi graczami.  
+przeszukiwania lub wysyłki do więzienia, w celu osiągnięcia przewagi nad innymi graczami lub unikania akcji rp w celi.  
 **5.5.** Napary Orzeźwienia, używane do uzdrawiania graczy są traktowane jako „wiedza”. Korzystanie z nich przez
 osoby niepowiązane z frakcją Lekarzy/Lekarzy Crime jest zabronione!  
 **5.6.** Wykorzystywanie przez Lekarza informacji oraz mechanik w celu osiągnięcia przewagi lub złamania regulaminu
@@ -164,8 +169,7 @@ graczom, bądź po to by nie zostać ukaranym za przewinienia IC
 sukces nad innymi graczami bądź porażki. Przykładami akcji hostylnych są strzelaniny, odbicia, napady itp.)
 - EVENT – Akcja integracyjna tworząca przez społeczność graczy lub administrację, tworzona w celu wprowadzenia
 zmian w rozgrywce lub zapewnienie rozgrywki graczom/grupie graczy
-- INICJACJA – Inicjacja słowna lub konkretna czynność np. strzał lub zakończenie negocjacji, która podczas wątku bądź też akcji, będzie skutkować konkretnymi
-konsekwencjami.  
+- INICJACJA – Inicjacja słowna lub konkretna czynność np. strzał w górę lub zakończenie negocjacji, która podczas wątku bądź też akcji, będzie skutkować konkretnymi konsekwencjami.  
 - GREEN ZONE - Strefa wyłaczona z wszelakich akcji hostylnych, gdzie obowiązuje Peace and Love.  
 Aktualnymi strefami GREEN ZONE są wszystkie punkty przejścia między sesjami.
 
