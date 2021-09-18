@@ -87,26 +87,25 @@ Przekazywanie opisu niezgodnego z sytuacją jest traktowane jako FailRP
 ## Założenia Crime
 
 **4.1.** Podczas akcji Crime, obowiązuje limit graczy dla frakcji bandytów oraz szeryfów:
-- Akcje Lekkie (napad na sklep, rabunek, sprzedaż kontrabandy)
+- Napady na sklepy, napady na ludzi (do dwóch), sprzedaż kontrabandy, inne mniejsze akcje
 Maksymalnie do 2 bandytów; 2 szeryfów oraz 2 zakładników
-- Akcje Ciężkie (napad na bank, odbicia, napad na pociąg)
+- Napady na banki, odbicia z konwoju, napady na ludzi (trzech lub więcej), inne pośrednie akcje
 Maksymalnie do 4 bandytów; 4 szeryfów oraz do 6 zakładników
-- Sadzenie, Pędzenie, Obrona Destylarni
+- Sadzenie, pędzenie, obrona destylarni
 Maksymalnie do 4 bandytów; 4 szeryfów
-- Akcje Eventowe
-Informacje w ogłoszeniach o eventach
+- Rozruba w mieście, obrona kryjówki gangu, inne ciężkie akcje
+Maksymalnie do 6 bandytów; 6 szeryfów
 
+W momencie nieposzanowania życia, w sytuacjach nie planowanych np.: podjudzania przez dwóch ludzi, dziewięciu osób, przewaga stanowi prawo do złamania limitu
 W przypadku sytuacji problematycznych lub niejasnych, kierujemy się zasadą Fair Play lub wysyłamy ticket z pytaniem do Administracji/Moderacji/Supportu.
 
 **4.2.** Zakazuje się organizowania podstawionych zakładników na akcje hostylne.  
 **4.3.** Wzywanie pomocy Lekarza podczas trwającej akcji Crime jest traktowane jako przekroczenie limitów akcji. Konsekwencje ponosi strona wzywająca pomoc.  
 **4.4.** W strefie bez Jurysdykcji Szeryfów (czerwona strefa), do zapoczątkowania akcji wystarczy minimalistyczna
 inicjacja (np okrzyk bojowy) oraz nie obowiązują tam żadne limity akcji hostylnych.  
-**4.5.** Zakaz wykonywania napadów lub innych akcji hostylnych będąc w niewłaściewej sesji  
-np. Przebywanie w Saint Denis na sesji 1 podczas wykonywania napadu na bank. Akcja rozpoczęta na danej sesji, powinna się tam zakończyć. Przechodzenie między sesjami podczas trwającej akcji będzie skutkować banem.  
-**4.6.** Zakazane są odbicia członka gangu w miejscu, w którym jest przetrzymywany (np. biuro szeryfa w Valentine).  
-**4.7.** Zakaz zabijania, porywania Szeryfów/Doktorów bez posiadania poważnych podstaw fabularnych.  
-**4.8.** Zakaz okradania ludzi na miejscu akcji hostylnej lub w zatłoczonym mieście. Okraść gracza można wyłącznie zdala od miejsca ostatniej akcji. Zabrać można wszystko poza następującymi rzeczami:  
+**4.5.** Zakazane są odbicia członka gangu w miejscu, w którym jest przetrzymywany (np. biuro szeryfa w Valentine).  
+**4.6.** Zakaz zabijania, porywania Szeryfów/Doktorów bez posiadania poważnych podstaw fabularnych.  
+**4.7.** Zakaz okradania ludzi na miejscu akcji hostylnej lub w zatłoczonym mieście. Okraść gracza można wyłącznie zdala od miejsca ostatniej akcji. Zabrać można wszystko poza następującymi rzeczami:  
 - Jedzenie oraz picie  
 - Napary uzdrawiające  
 - Klucze do domów  
@@ -114,13 +113,13 @@ np. Przebywanie w Saint Denis na sesji 1 podczas wykonywania napadu na bank. Akc
 - Carcano oraz Rollingblock  
 
 Należy pamiętać, że grabież powinna być odgrywana przy wykorzystaniu komend /me /do oraz /try.  
-**4.9.** Całkowity zakaz zmuszania porwanych do otwierania skrytek bankowych (wypłata z banku/wyjmowanie ze schowka), skrytek w domostwach, miejscach pracy lub obozach gangu. Obejmuje to również przekazywania koni, wozów oraz innych sytuacji do których jest nam potrzebny drugi gracz. Jest to traktowane jako PG oraz FailRP   
-**4.10.** Zakazane jest używania ciał jako tarczy, poprzez trzymanie ich na ramieniu, mając jednocześnie
+**4.8.** Całkowity zakaz zmuszania porwanych do otwierania skrytek bankowych (wypłata z banku/wyjmowanie ze schowka), skrytek w domostwach, miejscach pracy lub obozach gangu. Obejmuje to również przekazywania koni, wozów oraz innych sytuacji do których jest nam potrzebny drugi gracz. Jest to traktowane jako PG oraz FailRP   
+**4.9.** Zakazane jest używania ciał jako tarczy, poprzez trzymanie ich na ramieniu, mając jednocześnie
 wyciągniętą broń.  
-**4.11.** Podczas akcji Crime (np. napad na bank), zakazane jest podejmowanie działania, bądź strzelania bez uprzedniej negocjacji lub inicjacji ze strony Szeryfów lub Bandytów.  
-**4.12.** Podczas podejmowania działań hostylnych lub wątkowych na podłożu Sheriff/Crime, zakazane jest uciekanie do miejsc z możliwością zablokowania prowadzenia dalszego wątku/ackji roleplay. Przykład: ucieczka do zamykanego na klucz pokoju hotelowego podczas ucieczki.  
-**4.13.** Po akcji Crime, osoba atakująca/napadająca może zostać rozpoznana wciągu 40 minut (1 dzień IC), tylko i wyłącznie, jeżeli będzie posiadać taki sam ubiór jak na akcji Crime. Późniejsze rozpoznanie, nie może być oparte samym wyglądem lub głosem, i wymaga dowodów.  
-**4.14.** Powracanie do miejsca akcji lub postaci (po BW, podniesiony przez lekarza czy skryptowo) w celu ocalenia członka bandy lub w celu dokonania zemsty poprzez zabójstwo bądź pobicie, będzie traktowane jako Revenge Kill oraz Fail RP.   
+**4.10.** Podczas akcji Crime (np. napad na bank), zakazane jest podejmowanie działania, bądź strzelania bez uprzedniej negocjacji lub inicjacji ze strony Szeryfów lub Bandytów.  
+**4.11.** Podczas podejmowania działań hostylnych lub wątkowych na podłożu Sheriff/Crime, zakazane jest uciekanie do miejsc z możliwością zablokowania prowadzenia dalszego wątku/ackji roleplay. Przykład: ucieczka do zamykanego na klucz pokoju hotelowego podczas ucieczki.  
+**4.12.** Po akcji Crime, osoba atakująca/napadająca może zostać rozpoznana wciągu 40 minut (1 dzień IC), tylko i wyłącznie, jeżeli będzie posiadać taki sam ubiór jak na akcji Crime. Późniejsze rozpoznanie, nie może być oparte samym wyglądem lub głosem, i wymaga dowodów.  
+**4.13.** Powracanie do miejsca akcji lub postaci (po BW, podniesiony przez lekarza czy skryptowo) w celu ocalenia członka bandy lub w celu dokonania zemsty poprzez zabójstwo bądź pobicie, będzie traktowane jako Revenge Kill oraz Fail RP.   
 
 ## Założenia Frakcyjne
 
@@ -170,8 +169,6 @@ sukces nad innymi graczami bądź porażki. Przykładami akcji hostylnych są st
 - EVENT – Akcja integracyjna tworząca przez społeczność graczy lub administrację, tworzona w celu wprowadzenia
 zmian w rozgrywce lub zapewnienie rozgrywki graczom/grupie graczy
 - INICJACJA – Inicjacja słowna lub konkretna czynność np. strzał w górę lub zakończenie negocjacji, która podczas wątku bądź też akcji, będzie skutkować konkretnymi konsekwencjami.  
-- GREEN ZONE - Strefa wyłaczona z wszelakich akcji hostylnych, gdzie obowiązuje Peace and Love.  
-Aktualnymi strefami GREEN ZONE są wszystkie punkty przejścia między sesjami.
 
 
 > Regulamin stworzony przez użytkownika Nightmare#0132 razem z pomocą społeczności.
