@@ -57,7 +57,7 @@ to tak OOC jak i IC.
 reakcji np. „XD”. Nadmierne nadużywanie zostanie potraktowane jako SPAM  
 **3.6.** Zakaz nadużywanie tak zwanego „gówno-slangu”, czyli mowy stosowanej w obecnych czasach np. „spierdalaj
 cwelu”. Pamiętajmy że czas w odgrywanym świecie to 1899-1900 rok.  
-**3.7.** Zakaz ingerencji w akcję hostylną bez uprzedniej prośby jedenj ze stron lub głęboko zakorzenionego wątku. Dołączenie do akcji bez uprzedniej prośby, może poskutkować FCK postaci.  
+**3.7.** Zakaz ingerencji w akcję hostylną lub tak zwane "wbijanie na trzeciego". Dołączenie do trwającej akcji, może poskutkować banem za Nieposzanowanie Życia.  
 **3.8.** Zakaz używania komend narracyjnym w celach do tego nie przeznaczonych lub w celu złamania regulaminu czy wymuszenia na kimś akcji (PG).
 Komendy narracyjne dzielą się na 4 typy:
 - komenda /me od opisu czynności, np. /me szyje spodnie
@@ -65,8 +65,7 @@ Komendy narracyjne dzielą się na 4 typy:
 - komenda /opis od opisu stanu który jest długotrwały, np. /opis ma poszarpane ubrania
 - komenda /try od losowania szans na udanie się danej akcji, np.: /try podczas akcji kradzieży kieszonkowej
 
-**3.9.** Zakazane są napaści na graczy bez inicjacji, które mają na celu tylko i wyłącznie zabieranie broni, rzeczy lub
-konia. Jest to traktowane jako Loot RP.  
+**3.9.** Zakazane są napaści na graczy bez inicjacji, które mają na celu tylko i wyłącznie zabieranie broni, rzeczy lub konia. Jest to traktowane jako Loot RP.  
 **3.10.** Po odrodzeniu się postaci, w wyniku wypadku/wykrwawienia (kiedy nie została udzielona pomoc, po odrodzeniu), należy odegrać Amnezje. Postać odgrywana, zapomina wszystkie wydarzenia, które doprowadziły do danej sytuacji.  
 **3.11.** Zakaz napaści na tle seksualnym (EPG) oraz torturowanie innych graczy sposobami, które mogą spowodować
 bardzo poważne rany (utrata ręki) lub CK.  
@@ -88,13 +87,15 @@ Przekazywanie opisu niezgodnego z sytuacją jest traktowane jako FailRP
 
 **4.1.** Podczas akcji Crime, obowiązuje limit graczy dla frakcji bandytów oraz szeryfów:
 - Napady na sklepy, napady na ludzi (do dwóch), sprzedaż kontrabandy, inne mniejsze akcje
-Maksymalnie do 2 bandytów; 2 szeryfów oraz 2 zakładników
+Maksymalnie do 2 bandytów; 2 szeryfów (2 zakładników)
 - Napady na banki, odbicia z konwoju, napady na ludzi (trzech lub więcej), inne pośrednie akcje
-Maksymalnie do 4 bandytów; 4 szeryfów oraz do 6 zakładników
+Maksymalnie do 4 bandytów; 4 szeryfów (6 zakładników)
 - Sadzenie, pędzenie, obrona destylarni
-Maksymalnie do 4 bandytów; 4 szeryfów
-- Rozruba w mieście, obrona kryjówki gangu, inne ciężkie akcje
-Maksymalnie do 6 bandytów; 6 szeryfów
+Maksymalnie do 4 bandytów; 4 szeryfów (bez zakładników)
+- Obrona kryjówki gangu, inne ciężkie akcje
+Maksymalnie do 6 bandytów; 6 szeryfów (bez zakładników)
+- Przejazd grupą przez miasto
+Maksymalnie do 6 bandytów; (brak limitów dla mieszkańców)
 
 W momencie nieposzanowania życia, w sytuacjach nie planowanych np.: podjudzania przez dwóch ludzi, dziewięciu osób, przewaga stanowi prawo do złamania limitu
 W przypadku sytuacji problematycznych lub niejasnych, kierujemy się zasadą Fair Play lub wysyłamy ticket z pytaniem do Administracji/Moderacji/Supportu.
@@ -104,22 +105,24 @@ W przypadku sytuacji problematycznych lub niejasnych, kierujemy się zasadą Fai
 **4.4.** W strefie bez Jurysdykcji Szeryfów (czerwona strefa), do zapoczątkowania akcji wystarczy minimalistyczna
 inicjacja (np okrzyk bojowy) oraz nie obowiązują tam żadne limity akcji hostylnych.  
 **4.5.** Zakazane są odbicia członka gangu w miejscu, w którym jest przetrzymywany (np. biuro szeryfa w Valentine).  
-**4.6.** Zakaz zabijania, porywania Szeryfów/Doktorów bez posiadania poważnych podstaw fabularnych.  
-**4.7.** Zakaz okradania ludzi na miejscu akcji hostylnej lub w zatłoczonym mieście. Okraść gracza można wyłącznie zdala od miejsca ostatniej akcji. Zabrać można wszystko poza następującymi rzeczami:  
+**4.6.** Zakaz magazynowania kontrabandy w Publicznych Bankach. Trzymanie kontrabandy/nielegalnych przedmiotów w depozycie, może poskutkować wizytacją szeryfów oraz listami gończymi
+**4.7.** Zakaz zabijania, porywania Szeryfów/Doktorów bez posiadania poważnych podstaw fabularnych.  
+**4.8.** Zakaz okradania ludzi na miejscu akcji hostylnej lub w zatłoczonym mieście. Okraść gracza można wyłącznie zdala od miejsca ostatniej akcji.  
+**4.9.** Podczas akcji rabunkowej wobec innego gracza, zabrać można wszystko co ma aktualnie przy sobie, poza następującymi rzeczami:  
 - Jedzenie oraz picie  
 - Napary uzdrawiające  
-- Klucze do domów  
-- Wszystkich broni szeryfom (jedną broń palną należy zostawić)  
-- Carcano oraz Rollingblock  
+- Klucze do domów   
+- Broni z lunetą (Carcano oraz Rollingblock)  
+- Szeryfowi należy pozostawić jedną broń palną  
 
 Należy pamiętać, że grabież powinna być odgrywana przy wykorzystaniu komend /me /do oraz /try.  
-**4.8.** Całkowity zakaz zmuszania porwanych do otwierania skrytek bankowych (wypłata z banku/wyjmowanie ze schowka), skrytek w domostwach, miejscach pracy lub obozach gangu. Obejmuje to również przekazywania koni, wozów oraz innych sytuacji do których jest nam potrzebny drugi gracz. Jest to traktowane jako PG oraz FailRP   
-**4.9.** Zakazane jest używania ciał jako tarczy, poprzez trzymanie ich na ramieniu, mając jednocześnie
+**4.10.** Całkowity zakaz zmuszania porwanych do otwierania skrytek bankowych (wypłata z banku/wyjmowanie ze schowka), skrytek w domostwach, miejscach pracy lub obozach gangu. Obejmuje to również przekazywania koni, wozów oraz innych sytuacji do których jest nam potrzebny drugi gracz. Jest to traktowane jako PG oraz FailRP   
+**4.11.** Zakazane jest używania ciał jako tarczy, poprzez trzymanie ich na ramieniu, mając jednocześnie
 wyciągniętą broń.  
-**4.10.** Podczas akcji Crime (np. napad na bank), zakazane jest podejmowanie działania, bądź strzelania bez uprzedniej negocjacji lub inicjacji ze strony Szeryfów lub Bandytów.  
-**4.11.** Podczas podejmowania działań hostylnych lub wątkowych na podłożu Sheriff/Crime, zakazane jest uciekanie do miejsc z możliwością zablokowania prowadzenia dalszego wątku/ackji roleplay. Przykład: ucieczka do zamykanego na klucz pokoju hotelowego podczas ucieczki.  
-**4.12.** Po akcji Crime, osoba atakująca/napadająca może zostać rozpoznana wciągu 40 minut (1 dzień IC), tylko i wyłącznie, jeżeli będzie posiadać taki sam ubiór jak na akcji Crime. Późniejsze rozpoznanie, nie może być oparte samym wyglądem lub głosem, i wymaga dowodów.  
-**4.13.** Powracanie do miejsca akcji lub postaci (po BW, podniesiony przez lekarza czy skryptowo) w celu ocalenia członka bandy lub w celu dokonania zemsty poprzez zabójstwo bądź pobicie, będzie traktowane jako Revenge Kill oraz Fail RP.   
+**4.12.** Podczas akcji Crime (np. napad na bank), zakazane jest podejmowanie działania, bądź strzelania bez uprzedniej negocjacji lub inicjacji ze strony Szeryfów lub Bandytów.  
+**4.13.** Podczas podejmowania działań hostylnych lub wątkowych na podłożu Sheriff/Crime, zakazane jest uciekanie do miejsc z możliwością zablokowania prowadzenia dalszego wątku/ackji roleplay. Przykład: ucieczka do zamykanego na klucz pokoju hotelowego podczas ucieczki.  
+**4.14.** Po akcji Crime, osoba atakująca/napadająca może zostać rozpoznana wciągu 40 minut (1 dzień IC), tylko i wyłącznie, jeżeli będzie posiadać taki sam ubiór jak na akcji Crime. Późniejsze rozpoznanie, nie może być oparte samym wyglądem lub głosem, i wymaga dowodów.  
+**4.15.** Powracanie do miejsca akcji lub postaci (po BW, podniesiony przez lekarza czy skryptowo) w celu ocalenia członka bandy lub w celu dokonania zemsty poprzez zabójstwo bądź pobicie, będzie traktowane jako Revenge Kill oraz Fail RP.   
 
 ## Założenia Frakcyjne
 
