@@ -105,7 +105,7 @@ W przypadku sytuacji problematycznych lub niejasnych, kierujemy się zasadą Fai
 **4.4.** W strefie bez Jurysdykcji Szeryfów (czerwona strefa), do zapoczątkowania akcji wystarczy minimalistyczna
 inicjacja (np okrzyk bojowy) oraz nie obowiązują tam żadne limity akcji hostylnych.  
 **4.5.** Zakazane są odbicia członka gangu w miejscu, w którym jest przetrzymywany (np. biuro szeryfa w Valentine).  
-**4.6.** Zakaz magazynowania kontrabandy w Publicznych Bankach. Trzymanie kontrabandy/nielegalnych przedmiotów w depozycie, może poskutkować wizytacją szeryfów oraz listami gończymi
+**4.6.** Zakaz magazynowania kontrabandy w Publicznych Bankach. Trzymanie kontrabandy/nielegalnych przedmiotów w depozycie, może poskutkować wizytacją szeryfów oraz listami gończymi  
 **4.7.** Zakaz zabijania, porywania Szeryfów/Doktorów bez posiadania poważnych podstaw fabularnych.  
 **4.8.** Zakaz okradania ludzi na miejscu akcji hostylnej lub w zatłoczonym mieście. Okraść gracza można wyłącznie zdala od miejsca ostatniej akcji.  
 **4.9.** Podczas akcji rabunkowej wobec innego gracza, zabrać można wszystko co ma aktualnie przy sobie, poza następującymi rzeczami:  
